@@ -1,6 +1,6 @@
-COPTS=	-g
 P2CLIB = /home/mjh/git/p2c/home
 P2CEXE = /home/mjh/git/p2c/p2c
+COPTS=	-g
 
 all:	realm 
 
@@ -70,9 +70,9 @@ c_pers:	c_pers.p
 	gcc $(COPTS) -I$(P2CLIB) -L$(P2CLIB) $@.c -l p2c -o $@
 
 makedata: convert
-	c_blo
-	c_cat
-	c_door
-	c_log
-	c_obj
-	c_pers
+	./c_blo
+	./c_cat
+	./c_door
+	./c_log
+	./c_obj
+	./c_pers
