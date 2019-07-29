@@ -2361,6 +2361,7 @@ var found : boolean;
     lp    : integer;
 
 	begin
+	writeln('Debug: entered name is ',name)
 	if (length(name)>20) or (length(name)<2) or (pos(' ',name)>0) or not(isa(name[1])) then
 		newname:=false
 	else
