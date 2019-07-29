@@ -1,0 +1,155 @@
+54
+r
+The tome is beautifully illuminated with bright colours and gold leaf, and, 
+as it is bound in red leather with gold clasps, it would clearly be worth 
+a lot to a collector. Unfortunately it seems to be written in Latin, and 
+in any case the script used is so archaic and cramped that you can barely
+ make out the letters.
+@
+32
+E
+The mirror is nothing out of the ordinary. Neither is your face.
+@
+45
+r
+The book appears to be a treatise on the black arts, dealing with necromancy, 
+alchemy, thaumaturgy and the raising of demons. Because of its content it 
+is valuable but you can make little of the spells and charms it contains.
+@
+174
+R
+The badge just says "I'm a city guard" - which is probably untrue.
+@
+173
+R
+The sign reads "KEEP OFF THE GRASS!" Underneath, in smaller letters, it adds 
+"Failure to observe the regulations is punishable by death. By Order."
+@
+115
+E
+Excalibur is a long sharp and extremely magical sword, carved with runes 
+and strange patterns. It is well known throughout the Realm that Excalibur 
+is an Immortal's weapon, and is enchanted and quite possibly sentient. It 
+would be as well to leave it - and its owner - completely alone.
+@
+114
+E
+The staff is a six-foot piece of oak, shod with silver. It allows the owner t
+o cast a number of Wizard spells through it, whether he's a magic user or not.
+@
+139
+E
+The rod is a short length of ivory, carved with runes, which has the property 
+of sending any creature in the area to sleep if waved. It only works once.
+@
+72
+E
+The coracle's just a small round boat.
+@
+117
+E
+The wumpus is a broad squat four-legged creature with a long tail and a 
+large mouth full of sharp teeth. It is made entirely of metal and is 
+well-known for living in caves.
+@
+35
+E
+The saltpetre is potassium nitrate, to be more exact.
+@
+31
+E
+If you don't know what a panacea is, eat it! It won't hurt - honest...
+@
+124
+R
+The Guardian is a large lumpy life form of indeterminate gender and IQ, 
+placed here to stop you getting out of this section of Hamlet's caverns. 
+For the cleverdicks who try READ GUARDIAN, it ain't a newspaper, ok?
+@
+172
+e
+The capsule appears to be weedkiller in fast-acting form.
+@
+59
+E
+The charm is a small carved wooden image of some pagan god or other. It's 
+designed to bring the owner luck in games of chance or gambles with Fate.
+@
+207
+E
+The vambrace is a piece of armour to protect the forearm. It's made of
+burnished steel without a sign of rust.
+@
+209
+E
+The hellsword is pure black, yet burns with the unbounded power of evil 
+which obviously flows freely from it. Carved on the side in Gothic 
+writing is the name 'Nanjusi' which seems to emit a dim red glow. 
+@
+200
+E
+The messenger of hell is a servant of evil. He wears tight leather 
+gloves which twitch impatiently, ready for the kill. You suspect that 
+if you incur Nanjusi's wrath, the messenger will deal with it. 
+@
+221
+E
+The cauldron is a great iron pot, stained black with rust and age. 
+Carved around its edge are pictures of various strange objects; a long 
+sharp tooth, a skull, a complete skeleton, an image of a god, an egg, a 
+five-pointed star and a U-shaped figure which you take to be a horseshoe.
+@
+236
+r
+The note's a crumpled piece of parchment. Someone has scrawled the words 
+"Out to lunch. Back later" on it in a semi-illiterate script.
+@
+233
+E
+The medallion represents the face of a demon of some kind, its features 
+drawn up in a savage snarl. It's designed to be hung around the neck by 
+a leather thong. Runes scratched on the back read "Medallion of Fear."
+@
+231
+E
+The carving is of wood. It's quite obscene but extremely valuable!
+@
+240
+E
+The stick is about two feet long, with a brass hook on the end.
+@
+246
+E
+The electrum, as everyone knows, is an alloy of silver and gold - valuable!
+@
+243
+E
+The shurikin is a flat four-pointed star-shaped piece of metal with
+razor-sharp edges, balanced for throwing. Sometimes called a throwing star.
+A useful weapon.
+@
+248
+E
+The wand's your standard stage magician's prop. This one really is magic!
+@
+245
+E
+The duck seems to be made of gold, but is much lighter than you'd expect - 
+it's probably hollow. It's still pretty valuable though.
+@
+250
+r
+The chart shows all known parts of the sea. Desert Island and Volcano 
+Island are marked with large crosses, for some unknown reason.
+@
+251
+E
+The idol is about a foot high and made of solid, pure gold - it is 
+therefore extremely valuable. It's quite pretty too if you like that sort 
+of thing, that is gods with far too many arms, heads and teeth.
+@
+188
+E
+The painting shows a high crag, set in a dark and stormy ocean and 
+surmounted by some sort of building in the shape of a skull.
+@

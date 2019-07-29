@@ -1,0 +1,189 @@
+====================== 
+[                    ] 
+[       Realm        ] 
+[  Front End v.2.4b  ]
+[                    ]
+======================
+
+Options available are:
+0: Quit the system.
+1: Play Realm.
+2: Change persona.
+3: Access Coders' menu.
+4: Game help.
+5: Read latest information.
+6: Delete persona.
+======================
+[                    ]
+[    Coders' Menu    ]
+[                    ]
+======================
+
+0: Return to main menu.
+1: Reset the game.
+2: Get system status.
+3: Read Coders' latest info.
+4: Shut down system.
+5: Read log file.
+6: Broadcast message.
+7: Edit persona file.
+As you watch your computer screen you suddenly become aware that something 
+very strange is happening. Your surroundings start to shift and blur. Great 
+cracks open in the walls and ceiling, and mist swirls around you until your 
+vision is completely obscured. Then you get an impression of swift movement, 
+and through the mist you catch glimpses of green hills and a blue sky. In a 
+few seconds your feet touch firm ground and the mist begins to clear. The 
+world still seems to be spinning around you, but in a few seconds this 
+stops and you are able to survey your new surroundings...
+Gradually your vision begins to blur and fade. The mist swirls around you 
+once more, and in a few seconds you are back in front of your computer.
+In a few seconds a tree has sprung from the ground. It grows tall, sends out 
+leaves and blossom, and brings forth fruit. Then it sinks back into the earth. 
+Only its fruit remain.
+You discover you cannot remove your hand from the lever. You are trapped!
+As you move towards the southern exit a beam of light shoots from the doorway. 
+It strikes you and you find yourself immobile - your limbs stiffen and in 
+seconds you have turned to stone - just one more statue in the Statue Room!
+That last blow was too much for you and you slump to the ground. You have a 
+last sight of your enemy leering down at you, then consciousness fades... 
+As you awake you feel weaker. You realise you have lost half your points.
+You have perished but fortunately it is possible to return you to life without
+ loss of points. Beware - next time you may not be so lucky...
+You are seized by the ogre's horny hands and turned round. Then a terrific 
+impact strikes you sending you hurtling into the air. You land a few minutes 
+later with a crash that knocks the wind out of you.
+"As reward for your valour" he intones "the Guild of Artisans has decided 
+to offer you the chance to change your Class. You will now be transported 
+to the Guild Chamber, where you must make your decision." He touches you 
+with the butt of his staff and there is a flash. You are elsewhere...
+The gryphon lifts its head and gives a great cry, then falls to the ground. 
+One last drop of blood falls from its body into the snow, freezing in 
+seconds. You bend to examine it. It has become a ruby!
+With a rending, splintering crash the ice falls to the ground.
+As you say the magic words the rock falls into fragments!
+You cannot cast that spell - you are not of the proper character class.
+You fail to get the spell to work correctly.
+Ok. Now stick around for a few hundred years and you might see some result! 
+These things take a long time to grow, you know...
+You sweep the snow away with the broom, revealing an amethyst!
+That's right, keep the Realm tidy! But there's not much to sweep here.
+There's a large galleon here, which you could board via a rope ladder.
+A mass of ice, rock and snow hangs overhead, looking extremely precarious.
+A large hole has been melted in the ice, and you could go through.
+There's a gaping hole in the stone of the tower wall - you can go in.
+A large boulder blocks the cave entrance.
+The egg breaks harmlessly far below.
+The egg bursts giving off noxious fumes! You fall to the ground...
+That spell's too difficult to cast during a fight - it requires 
+concentration which you can't give it at the moment.
+You have over - reached your magical strength. With horror you feel 
+your power slipping away from you... you are no longer a magic user.
+You make a small hole in the sand, but find nothing.
+You make quite a deep hole in the sand, but discover nothing.
+Burrowing frantically into the sand you find a golden coin!
+A crowd of kobold miners, armed with pickaxes and shovels, stand talking 
+by the eastern exit. They appear not to have noticed you, as yet...
+As you try to ascend the throne a voice booms out. "Who dares mount the 
+Throne of Kings without the insignia of royalty! Perish, mortal!" A bolt of 
+lightning spears down and strikes you, and you crash from the throne to 
+the flagstones below in charred ruin, stone dead.
+As you mount the Throne of Kings the crown, sceptre and orb vanish but you 
+feel a warm glow of well-being and pride at your achievement.
+This system is under development. For the moment, please use the online
+help (type HELP once you're actually playing).
+
+As you enter the room you seem to feel something pass across your face, and 
+you hear the faint sound of evil, mocking laughter. Something is wrong...
+You can't do that, don't be daft!
+That's not around at the moment.
+You haven't got that.
+You are not allowed to use this command with your current status.
+You haven't got the right object to do that with.
+You must choose one of the five races shown. Human is the standard, and 
+has access to all four character classes, one of which you'll choose in a 
+moment. Elves are more nimble and dexterous than humans, but less strong; 
+they cannot choose to start the game as Priests. Dwarves, on the other 
+hand, are strong but clumsier than Men, and cannot start as Wizards or 
+Rangers. Half-orcs are for those who want to be evil - they are stronger 
+than humans, but will never be accepted for training by the Wizards' Guild 
+or the priesthood - and halflings are small and weak but much more dexterous 
+than humans, and can start as Rangers or Wizards. 
+The most common class for beginners is Warrior; unlike the other three, 
+warriors have no special abilities, but they can acquire them in the course 
+of the game. Rangers are dexterous and keen-eyed and have certain special 
+powers, but are less strong than Warriors. A Wizard is not very good in 
+combat, but has a large range of spells available to him/her, while Priests 
+are better in combat but cannot use edged weapons and have less spells.
+The volcano in the southwest of the Realm quakes violently and Nanjusi flies 
+up surrounded by five demons. The demons bow quickly and depart leaving their 
+master behind.
+Suddenly Nanjusi speaks a few words of power and a massive column of flame 
+engulfs him, returning him to the depths of Hell.
+ points a finger at you and speaks a few words of power. With a flash of 
+unbelievable energy your bones jangle and crack into pieces. You fall to 
+the ground in a heap of sinews!
+Looking over the edge of the tower you see the ogre below catch it neatly 
+as it falls and place it gently on the ground. He looks up and chuckles.
+The ogre positions himself underneath ready for a perfect catch - then 
+realises how much it's going to hurt him if he tries. Quickly he speaks 
+a word of power and vanishes in a cloud of dirty black smoke.
+Looking over the edge of the tower you see the ogre point a finger at 
+the descending egg and speak a word of command. It changes direction in 
+mid-flight and hurtles towards you. You try to dodge, but too late...
+Crying "Death before dishonour" you swallow the capsule. In a few seconds the 
+poison is coursing through your veins - a few more, and you are unconscious.
+Suddenly you find yourself in ice-cold water! Frantically you thrash and 
+shout, trying to reach dry land, but your swimming talents are minimal. As you 
+gasp for breath water rushes into your lungs and you sink. Consciousness fades.
+You are engulfed in red-hot lava! You struggle briefly, then howl in agony 
+as the heat strips your flesh from your bones. Death comes swiftly...
+A faint sound above of metal on rock from above makes you glance upwards. 
+Instinctively you throw yourself aside as a huge boulder hurtles towards 
+you - but you are too late. You never hear the crash as it hits the ground.
+A particularly thick patch of the acrid fumes from the lake swirls across 
+your face, and you incautiously breathe in. Your head begins to swim - you 
+try feebly to escape but your strength, and your consciousness, are fading...
+You make a dash across the gantry, but as you reach the centre the pendulum 
+slices across, striking you and sending you hurtling to the hard earth below.
+You step incautiously into the centre of the mud, and your weight drags you 
+down - as you struggle you only sink deeper, until the mud is over your head.
+The tree waits until you're securely in place before its branches close in, 
+enfolding you in an inescapable embrace. Then it starts to squeeze...
+As you move down the passage a thin, almost invisible wire catches you at 
+ankle level. Suddenly you are smashed to the ground by a hail of heavy rocks 
+falling from the ceiling. Crushed and trapped, you cannot survive for long...
+Digging in the ash and dust, you discover a very large nugget of electrum, 
+created when the intense heat melted a heap of coins together.
+You grub around in the dust, getting filthy but discovering nothing.
+You judge the speed of the wheel, then leap nimbly onto the next passing 
+chair. The wheel carries you gently up, affording a wonderful view of the 
+surrounding lands. To your north you can see a small village, and far away 
+to the west a mountain rises. The area directly below you is mainly occupied 
+by a large tent. Beyond this to the west you can see some small caravans. 
+The whole area is surrounded by a high fence, the only exit being a small turn
+stile. Feeling suddenly nauseated by the motion, you return to the firm ground.
+You walk gingerly onto the rope and try a few steps. To your dismay you are 
+unable to balance properly and, as the rope sways treacherously beneath you, 
+you lose your footing and plummet downwards, ripping a hole in the rotten 
+safety net as you plunge towards the hard ground which comes up to meet you...
+You walk gingerly onto the rope and try a few steps. It sways treacherously 
+but using the long pole you are able to balance. You shuffle forwards, your 
+eyes fixed firmly on the platform ahead, not daring to look up or down. 
+You breathe a sigh of relief as you reach the other side, and look around.
+You try to swim down, but find that your lung capacity is not up to it.
+Frantically kicking you return to the surface, gasping for air.
+As you place the top-hat on your head, an eldritch voice whispers "You'll 
+like this... But not a lot." You feel a peculiar tingling sensation. The 
+last thoughts that go through your mind as you lick your furry white paws 
+clean, are of lettuce, and procreation. Then consciousness fades...
+Suddenly an old man stands before you. His beard is long and white and on 
+his head there gleams a circlet of silver. In his left hand is a tall staff 
+which glows with a bright light: his right hand holds a great book. 
+"Congratulations, adventurer!" he cries. "You have reached the standards 
+of Immortality, and I welcome you to the elite of the Realm. I hereby 
+confer upon you the powers of an Immortal. Use them wisely!" With that he 
+touches you with the end of his staff, and you feel a surge of power pass 
+through you. Images pass before your eyes and knowledge enters your mind. 
+When you are able to see the Realm again, the old man is gone.
+You dig deep into the sand with your bare hands, but find nothing interesting.
+You cast the spell correctly, but something prevents it from taking effect.

@@ -1,0 +1,72 @@
+false
+{carelessly/effortlessly} {avoid/evade}
+{carelessly/effortlessly} {avoided/evaded}
+
+false
+{quickly/easily} {dodge/sidestep}
+{quickly/easily} {dodged/sidestepped}
+
+false
+laugh
+laughed
+at
+true
+make
+forced to
+jump back
+true
+merely {bruise/scratche}
+merely {bruised/scratched}
+
+false
+{nearly/almost} {dodge/avoid}
+{almost/nearly} {dodged/avoided}
+
+true
+make
+made to
+{wince/shudder}
+true
+{pain/hurt}
+{pained/hurt}
+
+true
+catche
+caught
+{off guard/unawares}
+true
+make
+made to
+bleed
+true
+wind
+winded
+
+false
+walk
+walked
+into
+true
+make
+made to
+{groan/yell}
+true
+make
+left
+{momentarily/temporarily} {stunned/sleepy/dazed}
+true
+{hurt/wound}
+{hurt/wounded}
+{badly/severely}
+true
+make
+made to
+moan in {pain/terror/agony}
+true
+make
+made to
+{reel/stagger/fall} back
+true
+send
+sent
+{sprawling/flying}

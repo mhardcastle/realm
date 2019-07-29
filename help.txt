@@ -1,0 +1,472 @@
+This text
+This is the online help system of Realm. It's possible to find out
+about almost every major aspect of the game by using the HELP command - 
+which we're adding to constantly - though details may be a bit sketchy in
+places! It's very simple to use - you just type HELP, followed by a slash
+('/' or '\') and the first letter of the option you want. For example,
+HELP /K will tell you about the fight system. HELP /B might be a good
+option to choose if you're a newcomer to the Realm. To find out the range
+of low level (system) commands available, type /H._
+@
+Beginners' Introduction
+Realm is very similar to single-user "adventure" games - most computer
+junkies have played one sometime - and to role-playing games like Dungeons
+and Dragons. You have to wander about the land, collecting treasure, 
+slaying monsters, solving puzzles and so forth, to accumulate points and
+become an Immortal, a being of ultimate power, rising through 12 different
+levels of experience and strength en route. You mainly gain points by 
+dropping treasure in the lake (at the top of the mountain, in the centre
+of the land) though fighting with 'mobiles' and other players will boost
+your score (if you win!) The difference between Realm and single-user games
+is, of course, the other players, and you'll probably find these the most
+useful resource if you're stuck. Although you compete with them for
+treasure and rank, they'll probably give a low-level person a hand. To
+find out who else is playing, type WHO. To send a message to all players,
+type SHOUT "message". As you've probably gathered, communication with the
+computer is by entering simple English commands - N to move north, GET T to
+pick up all the treasure in your location, and so on. Experiment! At this
+stage it won't matter if you get killed. For a concise list of commands
+you can use, type HELP /U._
+@
+Useful commands
+_<obj> represents any game object or a category. Categories at the moment
+are ALL, (T)REASURE, (MOB)ILE, KEY, ORC, (KOB)OLD, ARMOUR, GEM, BOW, COIN,
+WEAPON, FOOD, FRUIT, TORCH, BIRD, FOSSIL, CONTAINER and SHELL. They represent
+all of that type of object that the command could work on (eg GET T, KILL ORC)._
+_<cont> is a container; either something which you can FILL with liquids
+or something into which you can PUT objects._
+_<liq> is a liquid - BEER, WATER, ACID and so on._
+_<dir> is a direction (N, S, W, E, NW, NE, SW, SE, U, D, IN, OUT)._
+_<mob> is a mobile (a creature roaming the land or another player)._
+Minimum abbreviations for the commands are shown in brackets (). Parts of
+the command with square brackets [] around them are optional. A bar | is
+used to separate options in a command. Comments are in curly brackets {}._
+------------------------------------------------------------------------_
+<dir> {N,S,W,E,NW,NE,SW,SE,U,D,IN,O}_&(BL)OW <obj> [ OUT | UP ]
+(B)RIEF { room descriptions }_&(BU)RN <obj>
+(BRE)AK <obj>_&(CL)OSE [<door>]
+(CU)T <obj>_&DIG
+(DR)OP <obj>_&(DRI)NK <liq>
+(EAT) <obj>_&(EM)PTY <cont>
+(EXA)MINE <obj>_&E(X)ITS
+(EXT)INGUISH <obj>_&(FIL)L <cont> [WITH <liq>]
+(FL)EE <dir>_&(FOL)LOW <mob>
+(G)ET <obj>_&(GI)VE <obj> (T)O <mob>|<mob> <obj>
+GO <dir> { same as <dir> }_&HATE "<person>"
+(HI)T <obj>_&(HE)LP /<opt>
+(I)NVENTORY [<mob>]_&INVOKE { calls Gods }
+(JU)MP_&(KEE)P <obj>
+(K)ILL <mob>_&(LE)VELS
+(LEA)GUE SC | KILL | LIKE | HATE | I_&(LIG)HT <obj>
+(LIK)E "<person>"_&(L)OOK
+(LOS)E <mob>_&(OP)EN [<door>]
+PUT <obj> IN <cont>_&(PUL)L [<obj>]
+QS { QuickScore }_&(QU)IT
+QW { QuickWho }_&QL { QuickLook }
+(REA)D <obj>_&(SA)Y "message"
+(SC)ORE_&(SH)OUT "message"
+(SHOO)T <mob>_&(SLE)EP
+(STE)AL <obj> (F)ROM <mob>_&(TA)KE <obj> [OFF]
+(THR)OW <obj> [ AT <mob> ]_&(VA)LUE <obj>
+(V)ERBOSE { room descriptions }_&(WAV)E <obj>
+(WEA)R <obj>_&(WEI)GH <obj>
+WHO { list players }_&WISH "message" { goes to Gods }
+Plus various emotion commands (see HELP /E), some low-level system commands
+(type /H for a list) and a few commands, related to
+puzzles, which the user must discover!_
+@
+Killing things!
+This section provides details on how to fight a player or mobile
+(in order to gain points or to defend yourself if attacked). Fights are
+initialised by typing KILL <mob> (this command also allows you to choose
+which mobile to fight if several attack you), and terminated if necessary by
+FLEE <dir> (which will lose the fleeing persona a certain amount of points.
+Weapons may be used, if owned - to be able to use a weapon use (SEL)ECT
+<weapon>. As you have two hands you may also use (SEL)ECT 2 <weapon>
+which puts a weapon in your left hand. (SEL)ECT on its own gives details
+of the weapons you are using. Weapons increase your power in a fight._
+    Once you are armed and fighting (you can fight without a weapon), you
+may use the fight commands to attack. The commands available are (SL)ash, 
+(ST)rike, (LU)nge and (P)arry; if you are unarmed you may only use (ST)RIKE.
+(Don't try to use HIT <mobile> - this command only works outside fights).
+The fight commands are coupled with parts of the body; (H)ead,(C)hest,
+(M)iddle and (LE)gs. So SL H (SLASH HEAD) would aim a cut at your 
+opponent's head; PA LE (PARRY LEGS) would attempt to parry a blow at your
+own legs. Including a "2" in the fight commands allows you to use your 
+secondary (left-hand) weapon (eg LU 2 CH, lunge with left hand at chest).
+Rangers may use STRIKE 3 to combat kick (eg ST 3 H, kick to head).
+You may also use THROW <weapon> at this point, eg THROW KNIFE (this
+command works out of fights as well, used as e.g. THROW KNIFE AT ORC)._
+    When the blow has been initialised it takes a little while to take
+effect, based on your dexterity and the weight of your weapon. During this
+time your opponent may try to parry, or, of course, start a blow of his/her
+own. You may feint by initialising two blows in quick succession. When a blow
+does take effect the recipient will lose a certain amount of stamina
+(unless he/she's an Immortal!) If this drops below zero he/she will die;
+his/her opponent will gain points while he/she will lose them. In certain
+circumstances you can leave a fight without either losing or gaining points
+but normally you escape with FLEE <dir> which knocks a bit off your score._
+    A normal fight involves only two people, but you may wish to team up to
+fight particularly tough mobiles. If e.g. you both do KILL BALROG then you
+will both be able to get blows in on him: he will only be able to hit one
+of you. Under such circumstances you share the points for killing him._
+    A typical combat might look something like this...._
+You are in the Room of Roots. To the west is the exit._
+A dangerous-looking sabre lies here._
+Bedivere is here. Bedivere has the knife._
+>GET SABRE_
+Sabre taken._
+>SEL SABRE_
+You are armed with the sabre._
+>KILL BED_
+You are now fighting Bedivere._
+Leaping forward Bedivere aims a vicious cut at your head with the knife._
+>PA H_
+Your parry succeeds!_
+>SL H_
+Bedivere directs a feeble slash at your chest with the knife._
+Bedivere is sent sprawling by your well-aimed slash at his head with the
+sabre._
+You are unscathed by Bedivere's clumsy cut at your ribs with the knife._
+( Stamina = 160/165 )_
+Bedivere has just fled!_
+The fight ceases..._
+Score: 23453._
+The knife falls to the ground._
+Bedivere walks out, westwards._
+Finally, note that killing players much weaker than yourself is
+considered "bad form" and may attract reprisals from Immortals or their
+killer personae. All kills of one player by another are logged. Low level
+players may use the command INVOKE in a fight to ask Immortals for help._
+@
+Guide to the Realm
+Printed manuals and maps of the game are available at cost price: contact
+mjh22@mrao.cam.ac.uk._
+@
+Spells available to all magic users
+This section gives details of the spell casting facilities available
+to all Mortal magic users (Immortals have many more spells available 
+for the control of their environment). If you are not a magic user (priest
+or wizard class) you cannot cast any spells (except with the help of
+certain game objects which you'll have to discover for yourself!) Warriors
+have the potential to become magic users, if the Wizards' and Priests' Guilds
+deem them worthy : to prove yourself worthy, you must perform one or more
+heroic deeds. Talk to an Immortal for information. In the spells listing
+given below, the numbers after the spell's name are used to indicate (1)
+its difficulty (the lower the number, the harder the spell is to cast,
+though as you rise in level you'll find spells become easier) and (2) the
+drain such a spell puts on your magic stamina. (If the number is followed
+by a plus sign "+" this is the MINIMUM cost and the spell could cost more).
+Magic stamina can be restored by sleeping (and in one or two other ways
+which again are up to you to dicover) but beware - if your magic stamina
+falls below zero, you lose your magical powers! The third number after the
+spell name, if present, indicates the lowest level you can be before you
+can cast the spell. Note also that if a spell is cast ON a player/mobile
+(eg SUMMON, BLIND) he/she may be able to resist the spell - in which case it
+MAY act on you instead, or send you to sleep. The resistance is determined
+by power/level of the caster balanced against power/level of the victim.
+Immortals will resist Mortals' spells. Remember also that if you're dumb
+you won't be able to say the words of some spells..._
+------------------------------------------------------------------------_
+_BLIND <mobile>_75      10
+Strikes the specified mobile/player blind._
+_CRIPPLE <mobile>_75      10
+Stops the mobile/player from being able to move._
+_DEAF <mobile>_78       7
+Makes the mobile/player unable to hear._
+_DISENCHANT (<mobile>)_56/8   14/12  2/1
+Removes all spells cast on the specified mobile or player - that is
+all spells which have a lasting effect, such as GLOW, CRIPPLE, BLIND,
+INVISIBLE, SHIELD - which could be cast by the caster of the DISENCHANT
+spell (priests can't remove INVISIBLE, for example. Like most of these
+spells it can be cast at a distance. If no player/mobile is given it
+works on the caster. The left set of numbers is for casting the spell
+on someone else, the right hand set for casting on yourself._
+_DISPOSSESS <mobile>_73      40    3
+Stops somebody possessing the specified mobile. See POSSESS._
+_DUMB <mobile>_79       7
+Strikes the mobile/player dumb - useful for annoying chatterers. Can also
+stop people from using certain spells which involve speech._
+_GLOW (<mobile>)_610      12
+Causes the mobile/player in question to glow, allowing him/her to see
+in the dark. If no name is given, works on the caster._
+_POSSESS <mobile>_71      60    5
+A very powerful spell allowing complete takeover of a player or mobile.
+Once this spell has been cast your commands will act on the mobile as
+though they were his/her own (with certain restrictions) until QUIT is
+typed or the spell wears off. You will still see things that are
+happening in your location but you are obviously in a vulnerable
+position while using this spell, so take care._
+_PREFIX <player> "<text>"_72       2
+Gives the player specified the specified prefix. So PREFIX BEDIVERE
+"chivalrous" would give make Bedivere's full name "Bedivere the
+chivalrous Enchanter."_
+_PRISON <mobile>_71      50     5
+Sends the person on whom the spell is cast to the Wizards' Dungeon,
+whence it is extremely difficult to escape (and you lose points if you
+QUIT from it)._
+_SCORE | QS <mobile>_78       5
+Gives the specified mobile/player's score details._
+_SLEEP <mobile>_612      15     2
+Sends the named player or mobile to sleep (though it may rebound on you!)_
+_TELL <mobile> "message"_625       1
+Gives the specified player/mobile the message, telepathically. ('Ryke's
+voice says in your mind "hello there!"' is the sort of message you'd get)._
+_WHERE <object>_618       2
+Tells you the location of an object. Alternatively_
+_WHERE <location>_75      15
+Tells you the location of a location, in general terms (e.g. WHERE
+"CLEARING" tells you "in the central part of the Realm.")_
+@
+Wizards' abilities
+This is a list of all the spells available to wizards only - mostly
+spells to manipulate objects and for offensive purposes. A wizard, while
+weaker in combat than a priest, has a greater range of spells. For an
+explanation of the numbers used read the HELP /S message._
+------------------------------------------------------------------------_
+_CALL <object>_76      10+    2
+Allows you to summon up any inanimate game object that is not in
+certain special locations. Beware, though, for the cost in magic
+strength is related to the value of an object, and some objects (e.g. 
+the diamond) are so valuable that no mortal can CALL them without
+exhausting his/her magical powers. And typing CALL ALL is not a good idea
+either!!_
+_CHANGE <mobile>_73       5     3
+Changes the mobile in question's sex, male to female or vice versa._
+_EXPLODE <mobile>_72      40     4
+Causes the specified mobile to explode, removing them from the game
+without losing them any points (even if used in a fight)._
+_ILLUSION <mobile> "message"_72       4
+Gives the specified player (or mobile!) the message as if it came
+directly from the game. So ILLUS BEDIVERE "You are attacked by an
+eleven-foot king Cobra!" would give Bedivere the impression that he
+was writhing in the coils of the loathsome reptile._
+_INVISIBLE (<mobile>)_73       40     4
+Makes the specified player/mobile, or the caster if no name is given,
+invisible - obviously conferring some advantage in fights, stealing etc._
+_LB <mobile>_78       25
+Throws a bolt of lightning at a mobile. Similar to ZAP (see below)
+this is more powerful, more costly, and more difficult to cast._
+_MOVE <object> <location>_75       20+    3
+Changes the location of the object in question to the specified place
+(locations are specified as in ZIP, below). The spell costs according
+to the value of the object (or, if a mobile, according to its level) so
+the same warning applies as given in CALL, earlier._
+_NOWALL_74       28     3
+Removes all magic walls (WOF or WOS) in your location._
+_PUSH <mobile> <direction>_77       20
+Forces the specified player/mobile to move in the given direction (but
+not in a direction they couldn't normally move). Eg PUSH ORC1 NORTH._
+_SHATTER <object>_74       15+    2
+Destroys objects. They have to be in your current location and
+destroying weapons or treasures can cost you more points - don't try
+to shatter the diamond or Excalibur, for example!_
+_SUMMON <mobile>_77       20+    3
+This spell allows you to call any creature or player to your location.
+The cost of this spell is related to the level or power of the player
+or mobile you summon, and the spell may be resisted._
+_VORPAL <weapon>_72       20     3
+For use on edged weapons only. It makes them more powerful._
+_WEIGH <object> <value>_71       30     7
+Changes an object's weight. <value> is a new weight, in Realm units._
+_WOF <direction>_72       60     4
+Creates a wall of fire in the given direction. _
+_WOS <direction>_72       60     4
+Creates a wall of stone in the given direction. WOS N would block off
+the north exit to a room, for example._
+_ZAP or BLAST <mobile>_610       15
+Throws a bolt of fire at a mobile/player, knocking points off his/her
+stamina according to caster's level. This can be effective if used in
+combat. (If you kill someone with ZAP outside a fight you score a few
+points, as is the situation with HIT, BURN, etc)._
+_ZIP <location>_76       30      2
+Transports you about the Realm. With the command must be given either
+an object name, in which case the spell will take you to the object, or
+a room name (eg "clearing", "stilton gorge") where the spell will take
+you to this location. (Or a location number, but this is of little use
+unless you have a VERY good map...) Note that mortals cannot zip to some
+of the more important locations in the Land._
+@
+Priests' abilities
+Priests are thought of as a class who, in return for dedicating themselves
+to their God, and making certain sacrifices - for example, they may not
+use edged weapons - have been endowed with certain magical powers, mostly
+concerned with the spiritual rather than the bodily world and with defence
+rather than attack (though there are some exceptions). Priests only have
+a few spells that are specific to them at the moment, but this list will
+increase. For an explanation of the numbers used, read HELP /S._
+------------------------------------------------------------------------_
+_BLESS <mobile>_71       70       9
+Makes the person on whom the spell is cast immune to mobile attack.
+It also lifts the action of the CURSE spell._
+_CONJURE_72       80       2
+Summons up a supernatural being of some kind, whose power depends on your
+level. You can command him/her as if he had been SUBDUEd (see below). He/she
+may turn on you, if you are weak, to gain his freedom._
+_CURSE <mobile>_71       30       3
+Makes victim extremely vulnerable to mobile attack (they attack on
+sight, in fact...). Both BLESS and CURSE, if cast by high-level priests
+or Immortals, may be permanent in effect._
+_EXORCISE <mobile>_74       40       4
+Return the mobile in question, if a demon or undead type, to the spirit
+world. If the spell fails, the mobile will resent it and the caster
+will probably fall asleep for some time._
+_HEAL (<mobile>) <number>_76        0+
+Adds <number> points to someone's stamina while deducting twice that
+number from the caster's magic stamina. If used without a name (eg
+HEAL 20) this spell works on the caster._
+_MBOLT <mobile>_76       15
+Blasts the specified mobile with mental energy. Similar to ZAP._
+_MOPEN_610       15       3
+An unusual spell for a priest in that it deals with the
+physical world. It will open most doors in the location._
+PRAY "message"_
+_    A special command - not a true spell - which enables priests to call
+on the Gods for assistance. Any God currently around will be under
+obligation to come to your aid. Those who misuse the command,
+though, will find the wrath of the Gods hard to survive!_
+_SAP <mobile>_610       20       2
+Saps the strength of the named mobile by an amount depending on the caster's
+level. This can cause the mobile to fall asleep, drop heavy objects, etc._
+_SHIELD (<mobile>)_74       50       3
+Creates a magical shield round the named mobile (or the caster) which
+protects him/her/it from lower level spells and - to some extent - 
+from injury by weapon. It wears off after some time._
+_SUBDUE <mobile>_73       60       5
+Forces the named mobile to obedience to your will. It will then obey
+any commands spoken directly to it (eg ORC "GIVE ME SWORD" will order
+the orc to hand over the sword) though it may seek to escape your
+control. The spell will not work on mobiles that would not understand
+speech and some intelligent ones will automatically resist it._
+_VIEW <location>_74       10
+Allows you to see a location as if you were in it. <location> is either
+an object name (VIEW TROLL shows you the room the troll's in at the
+moment) or a location name in quotes (VIEW "Watchtower" shows you what
+the watchtower looks like)._
+@
+Immortals' Spells
+As well as being able to cast mortal spells, Immortals have the following
+goodies available to them..._
+------------------------------------------------------------------------_
+_ARENA <mob1> <mob2> <points> puts 2 mobiles or players in the arena and
+gives the winner <points> points if they fight._
+_BAN <player> <days> throws a player off for <days> days._
+_BLOT <player> removes a player from the game and wipes their persona
+completely. Only to be used in VERY extreme circumstances - this is
+logged to disc so any unfairness can be investigated. Only for Gods._
+_BYE <player> throws the specified player off the game and off the system
+(though they can then come back). A sort of intermediate between
+EXPLODE and BLOT._
+_CHANGE <obj> </opt> <value> is a complex spell which allows most of the
+object parameters and a few of the mobile attributes of <obj> to be
+changed. <value> is always an integer - mostly it has to be from 0 to
+500, but values between 0 and 255 are traditionally used (from when
+Realm ran on a BBC Micro!) </opt> is a letter preceded by a backslash
+'\' or a frontslash '/'; for mobiles it can be /s (strength) /d
+(dexterity) /c (stamina) /m (magic stamina/concentration) /r
+(race) or /t (type - 1 = warrior, 2 = ranger, 3 = wizard, 4 = priest).
+Capitals allow you to change maximum values, eg /S - max strength.
+Using /+ or /- followed by a number allows you to increase or decrease
+the mobile's score. For objects <opt> is /s (slash) /h (hit) /l (lunge)
+/p (parry) /a (armour) /t (damage done by throwing) /b (size), /z
+(maximum size of objects contained) or /c (liquid contained, currently
+0 to 7). E.g. to change the troll's dexterity to 255, do CHANGE TROLL
+/D 255. To render the buckler useless, CHANGE BUCKLER /p 0._
+_DESCR and CONTDESC <obj> <number> allow you to change the text used to
+describe an object or what it's containing. These values can be seen when
+the object's examined. They're numbers from 1 to about 100, and represent
+text such as "A silver <something> lies here." (15) "A mighty stone
+<something> stands here." (80) "In the <something> there is " (41). Feel
+free to experiment with these, but don't try numbers over 108, as the action
+of these is "undefined". The DESCR & CONTDESC of players are saved._
+_MAKE "newname" <loc> creates an object named "newname" (which must be a
+totally original object name) and places it in location <loc> (as in
+MOVE,ZIP). When created it weighs 1 unit, is worthless, and has no
+weapon strengths. All this can be changed with WEIGH (see above),
+VALUE (see below) and CHANGE (above) The optional syntax MAKE "newname"
+<loc> "action" allows you to create mobiles, whose attributes can be
+changed by the CHANGE spell. So MAKE "orc5" 1 "sidles" would create the
+orc5 in the clearing and when it moved you would be told 'The orc5
+sidles out.' (Note also that all MAKE spells are logged - take care!)_
+_PEACE forbids all fighting in the game. This is logged._
+_REMOVE <obj> allows the destruction of any one object - usually to be used
+on something you've created and no longer want. It's the equivalent of
+the EXPLODE spell for objects. Try not to REMOVE things important for
+puzzles. Largely now superseded by SHATTER._
+_RENAME <obj> "newname" renames an object. The same restrictions apply to
+the name as in MAKE, above. So does the warning. This spell can also be
+used to change players' names permanently. Don't unless asked to._
+_SNOOP <play> allows you to see everything that the player sees. This is 
+mixed in with your own data, so it's a good idea to be somewhere, like
+the Coder's room or Wizards' Room, where you won't be disturbed. Typing
+SNOOP on its own will end the snoop._
+_SQUASH <mob> is like EXPLODE only messier._
+_STOPFIGHT will stop all fights in the location._
+_SUPERSNOOP is only for Gods and Demigods, and allows the caster to see
+everything that anyone types as they type it. SUPERSNOOP /d will
+stop the Supersnoop._
+_SUFFIX <play> "<text>" gives the player specified the specified
+level name. So SUFFIX BEDIVERE "Elementalist" would make
+Bedivere's full name "Bedivere the Elementalist." Only for Gods._
+_VALUE <obj> <value> revalues object <obj> to be worth <value> points
+(eg VALUE acorn 1000). Making worthless objects into valuable treasures
+shouldn't be done lightly, though! This one's logged, too._
+_WAR allows fighting again after a PEACE spell. This is logged._
+_WEARABLE, FLAMMABLE, BURNS, LIT, EXTINGUISHABLE, TWOHAND, LIQUID <obj>
+can only be cast on objects. These spells simply reverse the current status
+of an object. So if you want to make the Deathblade you've just created
+twohanded and glowing in the dark, do "TWOHAND DEATHB" and "LIT DEATHB".
+BURNS means that an object's actually on fire. LIT means that it gives light.
+FLAMMABLE means that it'll burn away if you set fire to it, while
+EXTINGUISHABLE means that it can be extinguished and relit (like torches).
+LIQUID means that it can contain liquids, like e.g. the bottle can._
+_WEATHER <num> allows you to change the weather. <num> is a number from 1 to
+10 specifying the different kinds of weather there are. Only for Gods._
+*
+Rangers' Abilities
+Rangers have the following special abilities available to them, as well as
+having dexterity bonuses in combat, throwing weapons, shooting and stealing._
+The commands DEXTERITY, STRENGTH and TRACK are available to Gods & Demigods.
+Ranger abilities decrease Concentration (the Ranger equivalent of Magic
+Stamina) - you may not use an ability that requires more Concentration than
+you have. Sleep, the Philosopher's Stone, etc. restores it._
+------------------------------------------------------------------------_
+_DEXTERITY <number> allows the user to boost his or her dexterity by the
+given amount for a short time. There are limits on the amount, depending on
+the user's level. The cost in Concentration is the same as <number>_
+_PICK allows the user to try to pick a lock, and costs 5 points of
+Concentration. It will not work on some doors and may take several tries._
+_RESIST costs 30 points of Concentration and causes the user to develop
+an aura of magical resistance: spells will be much less likely to work on
+him/her for a short time (a few minutes, depending on his/her level)._
+_STRENGTH <number> is the same as DEXTERITY but works on the user's strength._
+_STRIKE 3 <area> is an extension to the fight commands and allows the user
+to do a combat kick to the specified area. ST 3 will stop any other blow
+(for example with a weapon) and if another blow is started ST 3 will be
+cancelled. You can't kick and fight in any other way._
+_TRACK <mobile> costs 10 concentration points. It allows Rangers to find
+out various details about the specified player or mobile, the amount of
+information depending on the level of the user._
+@
+Expressing your emotions
+A large number of commands exist in Realm to allow you to show how you
+feel. These are listed below._
+_(1) Messages across the game. The commands SHOUT, SHRIEK, SCREAM and HOWL
+can all be used: these will be heard anywhere in the game. An optional
+following message (e.g. HOWL "Aaaaaargh!" can be added). SHOUTing is the
+standard long-distance communication method._
+_(2) Short-distance messages. The commands SAY, WHISPER, SING and PRAY are
+available for this - all are normally followed by a message e.g. WHISPER
+"Can anyone hear me?". PRAY is normally only used by Priests, for whom it
+has a special effect. Typing the message on its own, e.g. "Hello?" is the
+equivalent of using SAY. Prefixing the message by a player or mobile's
+name, e.g. BEDIVERE "Hi there" makes sure that everyone knows who you're
+talking to._
+_(3) Emotes. The commands FROWN, WAVE, LAUGH, CRY, TAP, SMILE, GRIN, GROWL,
+SOB, GROAN, BLUSH, CHUCKLE, WEEP, YAWN, HICCUP, GRIMACE, COWER, BOW, KNEEL,
+QUIVER, POUT, SHAKE, SHIVER, WINK, BLINK, NOD, SNEER, CACKLE, SNIFF and
+GRUNT allow you to behave in the appropriate way. Most can be followed by
+a descriptive phrase, in quotes, e.g. FROWN "severely"._
+_(4) Interaction. The commands KISS, HUG, HIT, PUNCH, SLAP, KICK - all
+followed by the name of a player or mobile - are also available._
+@

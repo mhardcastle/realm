@@ -1,0 +1,12 @@
+human
+elven
+dwarvish
+half-orc
+halfling
+orc
+gnome
+demon
+undead
+bird
+monster
+animal

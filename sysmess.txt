@@ -1,0 +1,15 @@
+Latest information and updates 19/3/94_
+ _
+This is Realm v3.7c, running under Linux on rosie.sel.cam.ac.uk port 2000.
+The game is currently running on an experimental basis only. Queries should
+be addressed to mjh22@mrao.cam.ac.uk._
+ _
+Players have probably noticed that none of the old personae still work on
+the game. This is not deliberate and as far as I know it is not a problem
+with the game: I believe it to be caused by problems on the host machine.
+The bad news is that I don't have a backup. If people can tell me the
+names, passwords and approximate scores of their old characters I can
+recreate them approximately as they were. Email me for more info. Sorry,
+folks._
+ _
+Martin_

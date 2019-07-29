@@ -1,0 +1,12 @@
+REALM II is copyright (C) 1987-1993 by Martin Hardcastle. Thanks
+are due to the following people for help and advice: Darrell Rowbottom
+(Nanjusi), Tim Hardcastle (Hamlet), Al Winton (Flamebitch/Sunchild),
+Phil Hardcastle (Phil), Tom Hardcastle (Thomas), Wally Beben (Serena)
+and Rich Howarth (Nightspawn). Also to Pete Chown who has helped me to
+port Realm to several systems, including this one!
+ _
+Latest Coder's information 3/6/93._
+ _
+There is no special Coder's information._
+ _
+Martin._

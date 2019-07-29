@@ -1,0 +1,31 @@
+Locations by area
+
+Name			Locations	%age	Writer
+----------------------------------------------------------------
+Central Realm		183		 21%	Ryke/Hamlet
+Kobold Mines		 99		 11%	Ryke
+Abbey			 44		  5%	Hamlet
+Northern Lands		 35		  4%	Hamlet
+City			 73		  8%	Ryke
+Sea			106		 12%	Ryke
+Hamlet's Caverns	 53		  6%	Hamlet
+Hamlet's Castle		 55		  6%	Hamlet
+Palace (in City)	168		 19%	Ryke
+Galleon			  9		  1%	Ryke/Phil
+Village			 38		  4%	Serena
+Circus			 23		  2%	Nightspawn
+Miscellaneous		  7		  1%	Various
+----------------------------------------------------------------
+			893		100%
+
+Locations by author
+
+Name			Number		%age
+----------------------------------------------------------------
+Ryke			542		 61%
+Hamlet			278		 31%
+Serena			 38		  4%
+Nightspawn		 23		  2%
+Other			 12		  1%
+
+

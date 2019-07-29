@@ -1,0 +1,369 @@
+tree
+5
+The tree is a majestic and ancient chestnut, about 100 feet tall and perhaps 
+20 in circumference. Runes are carved in the bark, but you can make nothing 
+of them. The tree's climbable.
+@
+1
+8
+The baleful oak is just a shell of what must once have been a great tree. 
+Presumably it's been poisoned by the salt water; it's almost dead, and the 
+wood wouldn't bear your weight if you tried to climb it.
+@
+1
+81
+The strange tree is like nothing you've ever seen before. Its trunk is 
+smooth and a peculiar grey colour and its branches a mass of tentacles. 
+You could climb it if you liked, but it might not be a good idea...
+@
+2
+800
+801
+The apple tree blocks the door from the orchard to the conservatory.
+@
+2
+618
+639
+The oak tree effectively bars progress further north.
+@
+1
+838
+bridge
+3
+The bridge is sturdy wood, held together with metal plates.
+@
+3
+53
+109
+26
+The rickety bridge was built by kobolds to span a gap in the floor of the 
+caverns where one passage collapsed into another. It's not very strong.
+@
+3
+528
+529
+527
+The great stone bridge is the work of the men who inhabited the City. It 
+was built thousands of years ago but has stood the test of time fairly well.
+@
+1
+305
+gate
+1
+*
+8
+52
+1
+124
+268
+497
+564
+553
+846
+door
+1
+*
+27
+100
+123
+159
+176
+181
+184
+263
+205
+126
+574
+156
+446
+221
+219
+290
+299
+483
+484
+482
+486
+516
+517
+684
+685
+870
+872
+295
+cairn
+1
+The cairn's just a rough heap of irregular stones. It was here for a reason, 
+but it has stood unused for so long that even the Gods have forgotten it...
+@
+1
+105
+grass
+2
+The grass is fairly ordinary - long, green, and wet.
+@
+58
+1
+10
+19
+22
+33
+35
+36
+37
+38
+39
+40
+40
+41
+42
+43
+50
+51
+61
+62
+63
+69
+71
+72
+74
+77
+79
+81
+82
+83
+84
+85
+96
+99
+100
+102
+210
+776
+779
+783
+784
+798
+799
+800
+804
+805
+811
+240
+253
+259
+604
+605
+607
+610
+611
+612
+613
+614
+616
+The grass here is sticky with thick black oil.
+@
+1
+794
+snow
+1
+@
+9
+129
+130
+132
+133
+138
+142
+144
+145
+136
+lever
+1
+The lever is a length of rusty iron protruding at an angle from the wall. 
+It would probably be possible to move it, if you pulled.
+@
+2
+170
+197
+portcullis
+1
+The portcullis is a strong grid, made of crossed bars of iron, which can 
+be raised and lowered through a hole in the roof. There doesn't seem to be 
+any way of moving it from here, though, so the controls must be elsewhere.
+*
+2
+182
+185
+trapdoor
+1
+*
+6
+225
+224
+555
+548
+885
+886
+fire
+1
+@
+3
+624
+566
+840
+clock
+1
+The clock is of the cuckoo variety, and is fixed firmly to the wall.
+@
+1
+568
+rope
+2
+It looks as if the rope would ring a bell, if you pulled it. Try it.
+@
+1
+509
+The rope's quite thick and will bear your weight if you dare to cross.
+@
+2
+880
+881
+hatch
+1
+The hatch is of strong metal and is set firmly in the floor. There's no 
+keyhole and no handle, so you guess it's opened by machinery or magic.
+*
+2
+454
+457
+throne
+5
+This is the throne of Nanjusi, god of death and destruction and nasty 
+things like that. It's where he sits when his ego wants boosting. Hehe.
+@
+1
+773
+The throne is large and heavy, made from a block of stone and carved with 
+the standard strange runes and symbols. It's where the Kings of the Realm 
+used to sit to be crowned (and on various other occasions.)
+@
+2
+430
+429
+The throne was made of wood and then gilded, but the gold leaf has long 
+since been stripped away by greedy adventurers and the wood is battered and 
+hacked by the axes of looters.
+@
+1
+657
+The throne seems to be red, and is vaguely throbbing. The Freudian 
+significance of this is not difficult to deduce.
+@
+1
+775
+The throne is intricately carved wood and is much too heavy to take away 
+(don't say the thought hadn't entered your head!) It belongs to the 
+Master of the Guild of Assassins.
+@
+1
+831
+galleon
+1
+The galleon's just a large ship, designed to ride the storms of the ocean. 
+There are very few signs of life on board.
+@
+1
+396
+plaque
+1
+The plaque is made of brass and was put here by Ryke to comemmorate the 
+finishing of Hamlet's Castle. It's fixed to the wall firmly and can't be 
+moved.
+@
+1
+563
+lips
+1
+The lips are very large and red (lipstick) and kissable.
+@
+1
+775
+picture
+1
+The picture shows Sunchild, the deadly halfling Master Ranger and the 
+first Guildmaster. In his hand he seems to be holding his legendary dagger,
+Earthstabber.
+@
+1
+831
+turnstile
+2
+The turnstile itself is just a post with arms that move around as people 
+pass through it: it's set in a wooden fence, and next to it is a slot.
+@
+1
+870
+The turnstile itself is just a post with arms that move around as people 
+pass through it: it's set in a tall wooden fence.
+@
+1
+871
+slot
+1
+The slot is set in the wooden fence by the turnstile and is coin-shaped.
+@
+1
+870
+desk
+1
+The desk is made of some dark reflective wood that is unknown to you. 
+Looking at it close to you seem to see scenes of people and places from 
+all over the Realm reflected in its gleaming surface.
+@
+1
+205
+sand
+1
+@
+13
+29
+340
+345
+347
+359
+363
+364
+365
+412
+413
+414
+415
+416
+bookshelves
+2
+The bookshelves contain many exotic and imposing books, but unfortunately 
+they're securely locked and barred so you can't get at them.
+@
+2
+205
+690
+The bookshelves are locked and barred, but a section to the east seems to
+form some kind of door into darkness which you could pass through.
+@
+1
+691
+boulder
+1
+The boulder is large and immovable.
+@
+2
+420
+421
+blackboard
+1
+The blackboard is provided for people to leave messages on. It's securely
+fixed to the cliffside.
+@
+1
+1

@@ -1,0 +1,57 @@
+chants a spell of summoning.
+A SUMMON
+makes a mystic pass.
+V SLEEP
+recites a telekinesis spell.
+A MOVE
+mutters a spell.
+A BLIND, DEAF and so on
+makes a complex spell-breaking gesture.
+V DIS
+recites the words of a spell of Mind Control.
+A POSSESS
+holds # breath and concentrates intensely.
+V EXPLODE
+says the PRISON spell!
+A
+recites one of the Wall spells.
+A
+closes # eyes and makes a strange pushing gesture.
+V PUSH
+intones the complex words of a spell designed to break Mind Control.
+A
+says a spell intended to destroy magical walls in the area.
+V
+cries a few harsh words in some strange tongue.
+A SHATTER
+cries "Gods of Healing, come to my aid!"
+A HEAL
+makes a dramatic sweep of # arms through the air.
+V SHIELD
+says a few strange words in a low voice.
+A VORPAL
+goes into a momentary trance, seeming to look at things far away.
+V VIEW
+points at the door and frowns in concentration.
+V MOPEN
+cries "In the name of the Gods begone, evil spirit, I adjure and charge thee!"
+A EXORCISE
+shouts "By the Gods I summon thee, creature of darkness, to do my bidding!"
+A Conjure
+says "I charge thee in the name of the Gods to obey me and do my bidding!"
+A SUBJUE
+makes a series of magical and peculiar gestures.
+V INVIS
+frowns in concentration, calling up # powers.
+V Glow
+howls a dreadful curse in the name of the Gods.
+A
+pronounces a blessing in the name of the Gods.
+A
+says a long and complex spell of Patterning.
+V WEIGH
+says a few strange words which you cannot understand.
+A CHANGE (sex)
+extends # forefinger and draws a wide circle in the air.
+V SAP
+

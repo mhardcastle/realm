@@ -1,0 +1,1255 @@
+Contents
+
+
+Contents	1
+Credits	1
+Introduction to Realm	2
+The Front End	2
+Doing things in Realm	4
+Getting around the land	4
+Using objects	5
+Treasure and point-scoring	5
+Levels and ranks	6
+Attributes	7
+The rest of your SCORE	7
+Mobiles	8
+The other players	9
+Interaction	9
+The fight system	10
+Selecting a weapon	11
+Starting a blow	11
+Stamina and death	12
+Ranger abilities	14
+Magic users and spell-casting	15
+The Spell Book	15
+Spells available to all magic users	16
+Wizards' Spells	17
+Priests' Spells	19
+How to cope with Immortality	21
+Hints and Tips	22
+Useful commands	23
+Simplest commands	23
+`Emotes'	23
+Spells for all	23
+Wizards' Spells	23
+Priests' Spells	23
+Immortals' Spells	23
+Realm Glossary	24
+
+Credits
+
+This guide was written by Martin Hardcastle and illustrated by Tim Hard-
+castle. Realm was programmed by Martin Hardcastle; portions were designed
+by Tim Hardcastle, Darrell Rowbottom, Wally Beben and Rich Howarth. I
+would also like to thank Al Winton, Phil Hardcastle, Andrew Black and the
+players on Compunet for their help and suggestions, and Pete Chown for his
+invaluable help in porting the game onto Phoenix.
+
+This is the second version of the Guide, which has been extended and revi-
+sed.
+
+Introduction to Realm
+
+Realm is a multi-user game; that is, it's a game which many people can play
+and enjoy simultaneously. It's set in a world very like Tolkien's Middle
+Earth (or the setting of many other `fantasy' or `sword and sorcery' novels)
+- a world where magic works and heroes are as common as the monsters
+they slay, where there are few natural laws; a world which can change and
+grow with its inhabitants.
+
+The Realm itself can be thought of as a land which was once prosperous
+and populated, but which has been devastated due to natural disaster and
+overrun by nasties of the worst kind. It can be divided into ten main areas;
+the Land, the abbey, the Coldlands, the City, the mines, the sea, Hamlet's
+Castle, the Palace, Hamlet's Caverns and the Village/Circus area. Naturally
+all these places are stiff with treasure left behind by the former inhabitants
+- which is, of course, where you come in...
+
+The object of Realm is to amass points by collecting this treasure (and by
+doing other things which we'll come to in a moment) in order to rise to be-
+come Immortal. The Immortals - who include Witches and Wizards, Arch-
+Priests and Arch-Priestesses, Guardians, Superheroes and Superheroines,
+and the more powerful Demigods and Demigoddesses, can be thought of as
+the real powers in the land - they can control virtually any feature of the
+game. (There are also Gods, who are more powerful still and work mostly
+behind the scenes.) Being Immortal gives you great power over the other
+people and creatures of Realm.
+
+However, you start off as a lowly first level character and have a lot to do
+to work your way up to these dizzy heights. You are cast, (as in many ad-
+venture games), as a typical greedy and bloodthirsty character, and you
+have to go around the land collecting valuables, solving puzzles, and inter-
+acting with the other players and the computer-controlled `mobiles.' The
+next few pages will give you some idea of how you go about this, starting
+with a brief description of the `front end' or user interface of Realm.
+
+The Front End
+
+The part of the program that you'll see first is the Front End - this is the
+bit that allows you to create personae, send messages, read information and
+so on without actually playing the game.
+
+The first thing you'll have to do on connection to Realm - whether through
+another system or directly via the 'phone - is to identify yourself to the
+computer by entering a persona name (that is, a name of a player whose
+actions you'll be controlling when you start the game). If you don't already
+have a persona on Realm, you can simply make up a new one by typing in a
+name that hasn't already been used by someone else when prompted. For
+example:
+
+Please enter a persona name: FRED <RETURN>
+Is this a new persona? Y <RETURN>
+
+You'll then be prompted by the computer to enter various details about how
+you want this persona to start. First you'll be asked what sex you want to
+be - fairly straightforward, there's a choice of two!
+
+Next the computer will ask you to choose a race - Human, Elf, Dwarf, Hal-
+forc or Halfling. To those who've read any `sword and sorcery' fiction or
+played a r“le-playing game like Dungeons & Dragons, these races will be fa-
+miliar, and on-line help is available at this point by pressing <RETURN>. Ba-
+sically Humans are the standard and the average, Elves are more dexterous
+and nimble but weaker, Dwarves are stronger and sturdier than humans
+(and smaller) but less dexterous, Halforcs are simply evil humanoid types
+who tend to be stronger than the average but are shunned by all right-
+thinking folk, and Halflings are a lot smaller and more dexterous - but much
+weaker.
+
+Your choice of race will also affect your choice of character class, which
+comes next - the four classes currently available are Warrior, Ranger, Magic
+user (sometimes called Wizard) and Priest, but not all these classes are
+available to every race. Again the online help will explain this. Briefly,
+though, Warriors are the standard class - they have no special abilities
+whatsoever but start off fairly strong and fit compared to the other classes.
+Rangers tend to be dexterous and good with throwing weapons and bows
+(and at things like theft where dexterity is an advantage). They have cer-
+tain special abilities. Magic users - as their name suggests - can cast a wi-
+de range of spells (see Magic, later), but to start off a magic user means
+being fairly weak in combat - especially as some of the more powerful
+spells aren't available to low level personae. Priests can also cast spells
+(though there are less of these available) and they start off stronger than
+Wizards, though there are certain restrictions on them - they may not use
+edged weapons, for example. The other important thing to note about this
+choice is that only Warriors will be offered the chance to change classes (to
+Priest, Wizard or Ranger) at a later date. No other class can do this except
+by the will of the Gods.
+
+Having chosen a race, the computer will ask if you're sure about your deci-
+sions. If you are, you'll be prompted for a password. This will ensure that
+no-one else can use your persona. (A password is not used on some
+systems.) You're then ready to play Realm, and are shown the main menu of
+Realm options.
+
+(If you have already created a persona, then you simply have to type in the
+persona name and press <RETURN> when asked for a persona name : then
+type in the password that goes with it and press <RETURN> again. After a
+short pause you should see a menu giving you choices about your next mo-
+ve.)
+
+The options available will include a chance to leave the system, an option to
+read the latest information about Realm (usually worth a look, as it'll tell
+you the latest changes in the program), a way of accessing the messaging
+system, an option `Change user identity' or something similar (this is only
+useful if you have two or more personae, since it puts you back at the
+`Enter a persona name' prompt) and, of course, an option to play the game.
+
+(Before describing this, though, the message system is worth a mention. Al-
+though there are many ways of exchanging messages outside the game
+system, the program's own messaging system is the only one that allows you
+to send messages to other players without knowing who they are in the real
+world. You only need to know their persona name. This makes player-player
+interaction a lot easier. The feature is not available on some online
+systems.)
+
+Having selected the option `Play Realm', though, you will receive a set of
+messages telling you where you are and what you're doing, and then you're
+off...
+
+Doing things in Realm
+
+When you first find yourself connected to the game you'll be in a totally
+unfamiliar situation. The program will tell you where you are and what (or
+who) you can see. It then asks you for a command by printing the prompt
+character `>'. This is your cue to do something. Chances are if you just
+stand around at this point some monster will wander up and have you for
+lunch, so we'd better start by describing how to move.
+
+Getting around the land
+
+The commands described here will be familiar to anyone who's played a
+single-user adventure (or another MUG!) To move from your current location
+you just type a direction of the compass (followed by a press on the RE-
+TURN or ENTER key, which is needed after every command to indicate that
+it's finished and send it to the computer for processing). For example....
+
+Clearing.
+
+You are standing in a large grassy clearing with tree-stumps dotted around.
+To the north is a great forest, which spreads round to west and east; to
+the south is a tall cliff, the north face of a huge mountain, in which is set
+a strong iron gate. Paths lead off into grassland to the southwest and sou-
+theast, and a narrow track leads into the forest to the north.
+
+A large canvas sack lies here.
+
+>NORTH <RETURN>
+
+Forest path.
+
+You are standing at a fork in a forest path, just a few paces in from
+a clearing to the south....
+
+and so on. In practice people tend to abbreviate the directions to the first
+couple of meaningful letters : N for north, SE for southeast, and so on.
+There are also a few others; U (for UP) and D (for DOWN) are fairly ob-
+vious, IN will generally take you through doors and such like, while OUT
+(abbreviated to O) from most locations takes you towards the Clearing in the
+centre of the game (see the Map for more details).
+
+There are other ways of getting around the game. The Wizard spells ZIP,
+MOVE and SUMMON (see later for information about spells) allow people to be
+moved round the land, there is a teleport system connecting some of the
+more far-flung areas to one another, and certain mobiles will cause you to
+move around if you let them. You are also allowed to FOLLOW people, though
+they may shake you off with the LOSE command. Walking is probably the ea-
+siest method of getting around, though.
+
+(It's worth remembering that the BRIEF command (B for short) will allow you
+to turn off the long descriptions of locations, enabling you to get around a
+lot faster. VERBOSE or V will turn them back on again.)
+
+Using objects
+
+Obviously being able to explore is not much use on its own; you'll see
+things lying around which you'll want to grab. The command to pick some-
+thing up is GET <object> or TAKE <object> (for example, GET SACK) : GET
+can be shortened to G if you're in a hurry, and most object names can be
+abbreviated (e.g. G SWO to pick up the sword). Similarly to get rid of some-
+thing you're carrying use DROP <object> and to get a list of what you're
+carrying type INVENTORY (which abbreviates to INV or just I). Carrying ob-
+jects will tire you (decreasing your strength, so that you may find yourself
+dropping things) and make you clumsier, decreasing dexterity. See the `At-
+tributes' section, later.
+
+You'll soon reach the stage where you want to do things to more than one
+object : there are a range of special words, called categories, which allow
+you to do this. ALL is the most general one; typing GET ALL will pick up
+everything in the location, while DROP ALL will get rid of everything you're
+carrying, and so on. The category that's used most often is TREASURE,
+usually abbreviated to T, which applies to anything valuable (that is, any-
+thing worth points - see later) but other categories include MOBILE (any
+monster or creature of the land) WEAPON, FOOD, FRUIT, COIN, ORC and so
+on. Using the KEEP command exempts the named object or category from the
+DROP, GIVE or PUT commands if these are used with a category (eg DROP T
+wouldn't get rid of the staff if you had used KEEP STAFF previously, even
+though the staff is part of the category TREASURE).
+
+So what can you do with these objects, once you've got them? There's a
+long list of object manipulation commands, most of which are `intuitive' in
+operation; if you've just picked up the crown, you can WEAR CROWN, for ex-
+ample, and if you've found the candle, you can LIGHT CANDLE. If you've got
+a mug of beer, try DRINK BEER; if you're in the right place you can then
+FILL MUG WITH BEER and carry on drinking! Try typing HELP /U from the
+'>' prompt for a full list of the most useful commands, which is also shown
+in smaller form at the end of this Guide. (The HELP command on its own will
+provide you with a whole list of options, all of which are worth looking at.)
+
+   Treasure and point-scoring
+
+What do you do with treasure, once you've found it? What you normally do
+with your `T' (as you'll hear people call it) is drop it in the lake at the top
+of the mountain in the centre of the Realm (see the Map again). You'd think
+any adventurer worth his salt would go and stash it away in a bank vault
+somewhere, but dropping it in the lake scores you points, and scoring
+points is the object of the exercise. If you type SCORE (SC for short) you'll
+be able to find out how many points you've currently amassed. A typical
+SCORE is shown below - the other pieces of information on the score are
+discussed later.
+
+Axeman the permanent Mage
+Level 11 male dwarvish magic user
+Score		: 199182
+Value/killed	: 16598
+Strength		: 222/230
+Dexterity		: 233/233
+Stamina		: 229/236
+Magic stamina	: 163/228
+Charisma		: 2
+Kills			: 188
+Weight held	: 38
+Spellls		: glowing
+
+Chances are that at this stage your score won't be very high, but each pie-
+ce of treasure that you drop in the lake increases it by a specific amount
+(you also get score bonuses for fighting and for solving certain puzzles).
+You can find out what a particular piece of `T' is worth by doing VALUE
+<object> (or VALUE ALL, VALUE T, etc). You may be interested to see the
+top scorers in the Realm at the moment: you can do this by typing LEAGUE
+SCORE.
+
+Levels and ranks
+
+You'll also see on your score your name and a rank (Fred the Peasant, Su-
+san the Druidess, etc. : Axeman is a Mage, in the example above). Your rank
+name is called your level and you start off as a Peasant, Serf, Learner, Be-
+ginner, Apprentice, Initiate, Novice or Neophyte (depending on your sex and
+character class). As you score points, you'll rise through the levels gaining
+power, strength and prestige en route. As mentioned before the ultimate
+goal is Immortality, requiring a score of a mere 204,800 points. The table
+below shows you the variety of levels and the scores needed to achieve
+them: a similar table is available by typing LEVELS online.
+
+		Warrior		Ranger		Wizard		Priest
+	Score	Male	Female	Male	Female	Male	Female	Male	 Female
+	0	Peasant	Serf	Learner	Beginner	Apprentice	Apprentice	Novice 	 Neophyte
+	200	Quester	Seeker	Scout	Searcher	Conjurer	Diviner	Initiate	 Initiate
+	400	Adventurer	Adventuress	Acrobat	Tumbler	Sage	Adept	Acolyte	 Acolyte
+	800	Fighter	Fighter	Thief	Pickpocket	Seer	Seeress	Cleric	 Cleric
+	1600	Combatteer	Amazon	Archer	Archer	Soothsayer	Soothsayer	Mystic	 Mystic
+	3200	Valiant	Valiant	Marksman	Markswoman	Warlock	Spellweaver	Monk	 Monk
+	6400	Knight	Swordswoman	Ranger	Ranger	Sorcerer	Sorceress	Oracle	 Oracle
+	12800	Paladin	Paladin	Yeoman	Yeowoman	Enchanter	Enchantress	Priest	 Priestess
+	25600	Hero	Heroine	Assassin	Assassin	Magician	Illusionist	Druid	 Druidess
+	51200	Champion	Champion	Ninja	Ninja	Necromancer	Summoner	Hierarch	 Hierarch
+102400	Master Warrior	Master Ranger	Mage	Thaumaturge	High Priest	 /ess
+204800	Superhero	Superheroine	Guardian     Guardian	Wizard	Witch	Arch-Priest	 /ess
+
+(It's possible that these level names may change, but this table gives the
+general idea.)
+
+Attributes
+
+This is the name given to the numbers (such as strength, dexterity and sta-
+mina) shown on your score sheet (type SC or QS). Together with your score
+they help to determine how powerful a figure you are in Realm. The four
+main attributes or `prime attributes' - strength, dexterity, stamina and ma-
+gic stamina or (for Rangers) concentration - tend to range between 0 and
+about 300, and they increase as you go up levels (and, of course, decrease
+should you go back down a level or two!) These four are described here in
+some detail.
+
+Your strength - obviously - describes how strong you are, and determines
+how much you can carry: Realm weight units are geared so that you cannot
+carry more weight than your current strength. Your strength has a `cur-
+rent' and a `maximum' value; in the example shown, Axeman's current
+strength is 222 while his maximum strength is 230. The current value will
+fall below the maximum when you carry heavy loads, fight, cast powerful
+spells, or simply over-exert yourself, and if it falls too low you will fall
+unconscious. As your strength gets lower you will find yourself dropping
+objects. The `current' value may actually exceed the maximum when some
+Ranger abilities are used: see below.
+
+Your dexterity shows how agile you are, how good you are at stealing ob-
+jects, throwing weapons, shooting bows and so on. It's a measure of your
+skill with your hands, and - together with strength - has a large influence
+on how well you fight (see later). Its `current' value is usually more or less
+the same as its `maximum' - carrying bulky objects reduces your dexterity,
+though, for obvious reasons.
+
+Your stamina is a measure of your physical health and well-being. Its `cur-
+rent' value drops when you are hurt or wounded in combat, and is never
+greater than its `maximum' value. If it falls below zero, you die!
+
+Magic stamina and Concentration are discussed in the section on Spell ca-
+sting and Ranger abilities, respectively. Suffice it to say at the moment that
+these determine your current and maximum capacity for using magic / Ran-
+ger abilities. Warriors do not have this attribute and it does not appear in
+their score.
+
+Finally all the prime attributes (except dexterity) can be increased, if they
+are low, by SLEEPing (which takes you out of circulation for a while) or by
+EATing food. There are also other, more exotic methods...
+
+The rest of your SCORE
+
+Apart from showing the four prime attributes, the SCORE message gives
+other important information. Refer back to the example above. The first line
+is your `fullname' which also appears, together with those of any other
+players, on the WHO message (see next section). It includes your name, your
+level name, and any `prefix' you may have - Axeman's prefix is the word
+"permanent". (See the spell PREFIX for more details.)
+
+The second line of the SCORE message tells you exactly what you are - your
+level, sex, race, and class. This may not be useful to you, but other people
+can read your score and will need to know this.
+
+The next line tells you your score itself, as described above. And the line
+below - `Value/killed' shows the amount of points that someone would get if
+they killed you in combat. (This is always 1/12 of your score.) Immortals do
+not have this line in their score.
+
+The next four lines (or three in the case of warriors) are the prime attri-
+butes, as described above.
+
+Next is the attribute `Charisma'. This reflects your popularity with the other
+players. Newcomers start with charisma 0, and every week everyone gets a
+chance to vote, using the commands LIKE and HATE, for the player they
+most like or dislike. LIKE increases charisma by 1, whereas HATE decreases
+it by 1. So for example if you typed LIKE "Axeman" his charisma would go
+up to 3. Negative charismata are also possible! The charisma value provides
+a way of finding out who the most popular and unpopular people are - type
+LEAGUE LIKE or LEAGUE HATE to get a list of the `Top ten' and `Bottom ten'
+people together with their charismata. Charisma also affects how mobiles
+treat you (see below) - someone with a negative charisma is more in danger
+from them!
+
+The attribute `Kills' reflects how many mobiles and players you've killed. It
+simply increases by one each time you win a fight: it never decreases. As a
+result it permits keeping track of the most aggressive players: try LEAGUE
+KILL for a list of the best killers.
+
+`Weight held' is self-explanatory - the weight is in arbitrary units, in order
+to make comparisons easier, and your `weight held' may not exceed your
+current strength. Each object has a weight, which can be found out by
+typing WEIGH <object> (e.g. WEIGH SWORD, WEIGH ALL) and the `weight held'
+value is the sum of all the weights of the objects you're carrying.
+
+Finally the `Spells' column lists any spells which may have been cast on you
+(or which you have cast on yourself). Such spells will be further discussed
+later.
+
+Mobiles
+
+These are objects which have the ability to move around - hence the name.
+They wander the Realm in a random or semi-random fashion, collecting trea-
+sure and fighting one another. If given the chance the wandering mobiles
+will also fight you - so steer clear - and the stationary mobiles often form
+part of a puzzle or trap. You can interact with them in much the same way
+as with the other players - see below - but the mobiles tend to be less
+talkative and much more agressive. There are several interesting spells that
+people can use to take control of mobiles, though, so don't be surprised if
+you find yourself having a chat with a troll or a demon! Like players, but
+unlike normal objects, mobiles have the attributes score, strength, dexterity,
+stamina and magic stamina (as described above).
+
+The other players
+
+The main advantage of a multi-user game is that you get to interact with
+other players. Realm is a kind of r“le-playing environment where people can
+act out their ideals - being brave, noble, or alternatively plain nasty. Ever-
+yone should help low-level players to get started, or at least not interfere
+with them (if anyone does, give a shout for the nearest Immortal who'll be
+down on the evildoer like the proverbial ton of bricks) but remember that
+the other people on the game have their own objectives and are trying to
+collect the same treasure as you are. In spite of this there are plenty of
+incentives for co-operation between players in Realm, including some puzzles
+that can only be solved when two people go to work on them at once.
+
+Interaction
+
+There are a variety of ways in which you can interact with the other people
+on the system. For a start, typing WHO (QW for short) will give you a list
+of who's playing, together with their levels. SHOUT "message" will send a
+message to everyone in the Realm (barring those who are currently deaf, in
+prison, etc). while SAY "message" or simply typing "message" at the prompt
+will convey the text to everyone in the same location as you. If you see the
+message
+
+A male voice shouts "Where's all the T?"
+
+then you'll know that somebody has typed SHOUT "Where's all the T?" whe-
+reas if you see a message saying
+
+Bedivere says "Right, you've had it!"
+
+you know that Bedivere typed "Right, you've had it!".
+
+You may also address a remark to some particular person or creature in the
+room by prefixing the speech with their name. For example, if you type BE-
+DIVERE "What did I do wrong?" then everyone in the room will know that
+it's him you're talking to.
+
+There are various other commands (collectively known as emotes) which al-
+low you to show your feelings (YAWN, GROWL, FROWN, SMILE, LAUGH, SOB,
+BLUSH and so forth - there are large numbers of them, listed at the end of
+the Guide). If Fred the Novice types GROAN everybody in the same room will
+see the message `Fred groans.' and if he types SMILE "gently" then they'll
+get the message `Fred smiles gently.' If you're feeling extravagantly emotio-
+nal you might want to KISS people or HUG them, too.
+
+Apart from this sort of thing you can transfer ownership of objects - GIVE
+APPLE TO TOM, GIVE DICK T, STEAL ALL FROM HARRY (theft is not a socially
+acceptable activity, and may result in your untimely demise if caught!) You
+can also commit acts of gratuitous and mindless physical violence. Read on...
+
+The fight system
+
+Yes... this is what you've been waiting for! Realm contains an extensive and
+unusual system for player/player combat; fighting, whether it be with other
+players or with the computer-controlled mobiles, is one way to score a lot
+of points. It's not easy to master and the novice would be advised to steer
+clear of anything that looks remotely dangerous until he/she's gained
+enough strength to fight with confidence. (The attributes affecting fighting
+capacity are strength, dexterity and stamina. Dexterity affects how quickly
+you can get a blow in and how well you can aim it, strength the damage it
+does when it gets there and stamina the number of blows that you yourself
+can take before dying.) Although other players shouldn't attack novices
+(this is classed as bullying and may lose the offender his persona if
+caught) the mobiles will see a low-level persona as easy meat. Be warned.
+
+There are basically three ways in which one player can do harm to another
+player or mobile. The first is violence outside a fight - typing HIT FRED (or
+PUNCH, KICK, SLAP) will hurt him without actually starting combat, as will
+BURN FRED if you have a lit torch or something similar. In the unlikely
+event that you kill someone by doing this you score some points, but not
+many. In any case the injured party (especially if a mobile) will probably
+turn on you if you do this. Similar things include the SHOOT command,
+which can only be used if you're outside a fight and which can be used to
+wound somebody in your location or the neighbouring ones, providing you're
+armed with a bow of some sort (see the SELECT command, described below).
+You can also THROW <object> AT <person> both inside and outside a fight.
+
+The second method involves casting spells on somebody, which is discussed
+later. It's the third method we're interested in here. This involves starting
+combat by typing KILL <person> (of course, if you're attacked by someone
+else, you won't have the option as to whether you want to fight or not).
+You will get the message `You are now fighting the dragon.' (or whatever)
+and you'll be in a situation where a ravening monster is out for your blood.
+Combat is the most dangerous situation you can be in on Realm, as you run
+the risk of losing half your points if killed.
+
+Although a one-on-one combat situation is the most common, the Realm fight
+system allows more than two people at a time to join in a combat. You may
+well find yourself in a situation where two mobiles are attacking you, or
+conversely you may want to team up with other players to take on a tough
+mobile. You can only actually fight one person at a time, and this player or
+mobile - the one you are facing - is referred to as `your opponent' below.
+This creature is either the first mobile to attack you, or the person you
+named in a KILL command. So, for example, if the kobold1 attacks you, and
+then the kobold2 joins in, your opponent will still be the kobold1. If you
+then want to aim blows at the kobold2 (for example, because you've killed
+the kobold1 or put him out of action with a SLEEP spell) you would type
+KILL KOBOLD2.
+
+If someone else is fighting you you may not leave by typing a direction
+command in the normal way. (If you are fighting someone, but they are not
+fighting you - for example if they are aiming blows at someone else, or if
+they are asleep - you may just walk away.) Under such circumstances you
+must use FLEE <direction> which causes you to run for your life in the gi-
+ven direction. This is the most important combat command for a novice to
+know! You drop everything in your haste and you also lose some points for
+your cowardice, but it's better than being dead. (If somebody FLEEs while
+you're fighting them, you gain some points, but not as many as if you'd kil-
+led them outright.) Low-level players can use the INVOKE command to call on
+the Gods for assistance during a fight (or indeed at other times).
+
+Selecting a weapon
+
+Assuming you want to stand and fight, though, you'll probably need some
+sort of weapon. The SELECT command allows you to decide which of the
+weapons that you're carrying you want to use, and it's probably best to do
+this before you get into a fight. Typing SELECT <weapon> will arm you with
+the named weapon, while SELECT 2 <weapon> will allow you to have another
+weapon in your left hand. Typing SELECT on its own will tell you how
+you're armed. An example of the use of this command follows (SELECT can
+be abbreviated to SEL).
+
+>SELECT
+You are armed with the halberd (double-handed).
+>DROP HALBERD
+Dropped the halberd.
+>SEL
+You are unarmed.
+>INVENTORY
+Fred has the sabre, the knife, the conch and the pyramid.
+>SEL SABRE
+You are armed with the sabre.
+>SEL 2 KNIFE
+You are armed with the sabre and the knife.
+
+Fred is now ready to do battle. Note the double-handed halberd; using a
+two-handed weapon means, obviously, that you can't SELECT 2 <object> at
+the same time. You can find out the relative powers of the weapons by
+using VALUE <object> : for example, if Fred typed VALUE SABRE he'd be gi-
+ven the following message
+
+The sabre
+Value : 0
+Slash value : 50
+Lunge value : 20
+Hit value : 5
+Parry value : 40
+
+and he'd know that the best thing to do with the sabre would be to slash
+with it (as opposed to striking or lunging). We'll now come to the commands
+that allow you to do this.
+
+Starting a blow
+
+There are three commands that allow you to aim a blow at someone in a
+fight: STRIKE, LUNGE and SLASH (usually abbreviated to ST, LU and SL re-
+spectively). These are coupled with a part of your opponent's body: HEAD,
+CHEST, MIDDLE, or LEGS (abbreviated to H, C, M and LE). So to aim a slash
+at your opponent's legs, do SLASH LEGS or SL LE. To lunge at his chest,
+type LU C. (Obviously the faster you get these commands in, the better.)
+You're not allowed to use all three types of blow with every weapon; you
+can't slash with the mace, for example, or lunge with the battleaxe. If you
+have no weapon at all, you can only use STRIKE (ST), and this is also the
+case if you're a Priest, since you're not allowed to use edged weapons. You
+can use your secondary weapon, if you have one (the one you selected with
+SELECT 2 <weapon>) by putting a 2 into the command. For example, if your
+secondary weapon was the rapier, you might type LU 2 M to stab at your
+opponent's middle. And Rangers may use their third weapon - their feet -
+by using STRIKE 3 <area> to aim a combat kick. This can't be combined with
+another blow - you can't have a kick and a cut with your sword going at
+the same time, for the obvious reason that you'd cut your foot off if you
+didn't fall over first.
+
+Once you've aimed a blow it takes a little while to hit (imagine the command
+you've typed as your orders to your arms, which then have to be physically
+carried out) and it's not a good idea to aim another blow with the same
+weapon while you're still waiting for the first one to take effect, or you'll
+just end up flailing at the air. When it does hit, you'll be given a message
+by the computer indicating the damage done:
+
+The orc1 is sent sprawling by your powerful lunge at his chest with the
+rapier.
+
+This is where you want to get in another blow quickly. Remember, your op-
+ponent will be doing the same thing to you, and you'll be getting messages
+along the following lines:
+
+Snarling the orc1 aims a vicious cut at your head with the knife.
+
+and then a few seconds later
+
+The orc's nasty slash at your head with the knife wounds you badly.
+Stamina = 48/104.
+
+If more than one creature is fighting you, you'll get similar messages telling
+you what they're doing and what damage is being done to you.
+
+Another way of damaging someone with an object in a fight is by using the
+THROW command (e.g. THROW KNIFE). This applies especially to Rangers who
+get bonuses when using such weapons. You may miss, or your opponent may
+dodge (depending on his or her dexterity), but otherwise you stand a good
+chance of doing them an injury. If you want to throw a weapon at a person
+you're not currently fighting, use THROW <weapon> AT <person>.
+
+Stamina and death
+
+If your blows succeed in bringing your opponent's `stamina' attribute to ze-
+ro or below, he or she will die. All mobiles and players have a fixed value
+in points (for players, about 1/12 of their total score - this is the `Va-
+lue/killed' attribute in your SCORE) and these points are shared equally
+among all the people fighting the creature in question - no matter how much
+they contributed to the fight. All these people's `kills' attributes will be in-
+creased by one.
+
+On the other hand, if your stamina falls to zero or below, you will die and
+lose half your points (which can be a crushing blow!) - this means that you
+automatically go down a level, unless you are already on level 1. Obviously
+it's important to maintain your stamina, and there are several ways of doing
+this. The first method is to ensure that it doesn't go down in the first pla-
+ce. Wearing armour helps here, and there are several pieces of this knoc-
+king around. VALUEing a piece of armour gives you some idea of its
+strength.
+
+Another method of warding off blows (if you're a fast typist or have func-
+tion keys) is to use the PARRY command (abbreviated to PA) which blocks an
+opponent's blow. In the example given above where the orc was aiming a
+blow at your head you'd want to get in a PA H (short for PARRY HEAD) be-
+fore the blow took effect. Depending on your strength and dexterity compa-
+red to your opponent's, and on the parry value of the weapon you're using
+to block with, you may be able to block the blow and stop it doing you any
+damage. It's often a good idea to have a good parrying weapon, such as the
+buckler, as your secondary weapon; then you can do PA 2 H to block the
+blow coming at your head and at the same time LU CH (or whatever) to aim
+a counterblow. Parrying tends to work best against human opponents, and in
+some cases a fight can become completely deadlocked with each fighter
+parrying the other's blows and neither being able to wound the other. In
+this case one or the other will probably resort to casting spells. Parrying
+will not work against other people's blows, if more than one is attacking
+you, but only on your opponent's.
+
+The second method of maintaining stamina is to restore it once it's been
+knocked down. EATing food is a good way of doing this; SLEEPing will re-
+store stamina too, but is not a good idea in a battle! DRINKing certain
+things restores a small amount of stamina, and GETing the Philosopher's
+stone will help as well. Yet another method is to use the HEAL spell, dis-
+cussed in the next section, or to get someone to cast it on you. Of course,
+if you take time off to do any of these things, your enemy will probably get
+in a couple of extra blows...
+
+As you can see, fighting is a complicated business. Some players avoid it
+completely (either for moral reasons, because they just aren't very good at
+it, or both), while others revel in bloodshed and mayhem and count their
+`kills' attribute more important than their score. Unfortunately, it's not
+enough to be a pacifist, as you're still likely to be attacked by those eager
+to score points off you. Always carry a weapon or be quick on the FLEE
+command unless you're sure you're safe.
+
+Ranger abilities
+
+In past versions of Realm the class of Ranger hasn't had as much attention
+as it's deserved. Its main drawback, of course, is that it offers no chances
+to use magic: unlike a Warrior, a Ranger can't convert to Magic user or
+Priest through his heroism. But magic users are a puny lot when it comes
+to combat, and not much good at the subtler skills of pinching things from
+people or plugging them with crossbow bolts. The members of the Assassins'
+Guild, recently formed as I write this, find a Ranger's high dexterity a po-
+sitive advantage in their line of work. (Their current Guildmaster is a Half-
+ling Master Ranger and his dexterity is well into the 300's!) And Rangers do
+have some abilities - equivalent to the spells of other classes - which are
+quite unique. These are listed below.
+
+The listed values of `Cost' refer to the amount of Concentration points the
+ability takes up. If you haven't got this amount, you won't be able to use
+the ability. A novice Ranger will start with about 50 Concentration: like the
+other attributes, though, it increases as you move through the levels. It's
+restored mostly by SLEEPing.
+
+Ability	Cost
+DEXTERITY <number>	<number>
+With this ability the user may boost his dexterity by <number> for a
+short time. Both the time and the maximum possible amount of dexterity
+points depend on his/her level. Useful for thefts, fights and so on.
+PICK (<door>)	5
+Allows the Ranger to try to pick the lock of a door. There are some
+doors which you won't be able to open, and depending on your level it
+may take you several tries.
+RESIST	30
+Causes the user to develop an aura of magical resistance. This is in
+addition to the normal resistance that all non-magic users (and magic
+users to a lesser extent) have to spells. Bear in mind that spells with
+a physical effect will not be resisted (e.g. ZAP, involving a fairly
+physical bolt of fire).
+STRENGTH <number>	<number>
+Is very similar to DEXTERITY, but obviously works on your strength in-
+stead. Useful for carrying heavy loads for a short time, and of course
+in fights.
+TRACK <mobile>	10
+Allows you, from tracks nearby and so on, to locate the named mobile.
+Lower levels will get a general area (e.g. TRACK HAG - The hag is in
+the north of the Realm). As you move up you'll get more precise loca-
+tions, and other useful information - The hag is in Stilton Gorge, which
+is in the north of the Realm. She is injured. She is carrying one ob-
+ject. Compare this with the magic users' WHERE spell.
+
+Magic users and spell-casting
+
+As mentioned above, this is a land where magic works, and being able to
+work it is a considerable advantage. It is possible to begin the game as a
+Wizard or Priest, but this leaves you at a disadvantage where combat is
+concerned, since you've presumably had little time in the course of your
+studies to train in the martial arts. Alternatively you can begin as a War-
+rior or Ranger - but you'll find it difficult to reach the heights of Immor-
+tality without magic to help you. If you're a Warrior, though, you are all-
+owed the chance to prove yourself worthy to become a magic user of one
+sort or another (unless you're a half-orc or other evil race, in which case
+the Guild of Priests and Wizards won't accept you for training). There are
+several ways to `prove yourself worthy' - most involve killing powerful
+monsters - and Warriors normally have to take a short time out of the game
+to learn the necessary skills. It is important to note that Rangers cannot
+train for magic user status, or for the priesthood - it's assumed that the
+skills they have learnt are not compatible with the ones they'd need. Nei-
+ther can a Priest or Wizard retrain to become another character class, in
+the normal course of things. There are certain ways to get temporary ma-
+gic-user status, though, which are open to everyone.
+
+Magic users (Wizards and Priests) have an attribute which other classes
+don't; magic stamina. This is related to the normal stamina - they have the
+same maximum value - but decreases when spells are cast. The cost of a
+spell is the amount of points it takes off your magic stamina when you cast
+it. If your magic stamina falls below zero, you lose your magical powers
+(and revert, or are demoted, to Warrior class), so it's necessary to be very
+careful, especially if casting one of the spells with variable cost.
+
+The Spell Book
+
+There now follows a list of the spells available to the various character
+classes. This is similar to, though longer than the lists provided by HELP
+/S, HELP /P and HELP /W: on the other hand, there may be one or two
+spells which aren't covered by this list. The three numbers beside the na-
+mes of the spells indicate
+
+(1)	The difficulty of the spell. Multiply this by your level number to get
+some idea of the percentage chance of the spell's working. For example,
+the number in the first column for the DEAF spell is 8: so a third level
+magic user would have an 8 x 3 = 24% chance of getting it to work.
+Note that if a spell is cast on another person (or mobile) they will have
+a chance to resist it, and if they do then the spell will fail anyway
+(and may rebound on the caster). A spell cast on an Immortal will al-
+ways fail: Immortals can cast any spell available to their character
+class without having to worry about the difficulty.
+
+(2)	The cost of the spell, in terms of magic stamina. If there's a `+' after
+the cost the spell may cost more, depending on what it's cast on. For
+example the Wizards' spell SUMMON has a listed cost of 20+, but could
+cost up to around 40 if cast on a high level player or mobile.
+
+(3)	The minimum level you must have reached before you can cast the
+spell. For example, you can't cast the POSSESS spell until you're 5th
+level or above. If no figure is given in this column you can cast the
+spell at any level.
+
+Spells available to all magic users
+
+These spells are fairly general in nature and are available to both Wizards
+and Priests. Where the spell is marked with an asterisk * it cannot be cast
+at a distance, i.e. the specified object or mobile must be in the same loca-
+tion as you. Note that if an object or mobile is not in your location when
+you cast a spell on it, then the spell will fail if he/she/it is in one of the
+`forbidden' locations: these are areas which Mortal magic cannot affect.
+
+Spell		Percentage	Cost	Level
+BLIND <mobile>	5	10
+Strikes the specified mobile/player blind.
+CRIPPLE <mobile>	5	10
+Stops the mobile/player from being able to move.
+DEAF <mobile>	8	7
+Makes the mobile/player unable to hear.
+DISENCHANT (<mobile>)	6/8	14/12	2/1
+Removes all spells cast on the specified mobile or player -that is all
+spells which have a lasting effect, such as GLOW, CRIPPLE, BLIND, INVI-
+SIBLE, SHIELD - which could be cast by the caster of the DISENCHANT
+spell (Priests can't remove INVISIBLE, for example). If no player or mo-
+bile name is given it works on the caster. The left set of numbers is
+for casting the spell on someone else, the right hand set for casting it
+on yourself (obviously it's easier to cast a spell on yourself!)
+DISPOSSESS <mobile>	3	40	3
+Stops somebody possessing the specified mobile. See POSSESS.
+DUMB <mobile>	9	7
+Strikes the mobile/player dumb. Note that you can't cast certain spells
+while dumb (you can cast DISENCHANT!)
+GLOW (<mobile>)	10	12
+Causes the mobile/player in question to glow, allowing him/her to see
+in the dark. If no name is given, works on the caster.
+POSSESS <mobile>	1	60	5
+A very powerful spell allowing complete takeover of a player or mobile.
+Once this spell has been cast your commands will act on the mobile as
+though they were his/her own (with certain restrictions) until QUIT is
+typed or the spell wears off. You will still see things that are happe-
+ning in your location but you are obviously in a vulnerable position
+while using this spell, so take care.
+PREFIX <player> "<text>"	2	2
+Gives the player specified the specified prefix. So PREFIX BEDIVERE
+"chivalrous" would give make Bedivere's full name "Bedivere the chi-
+valrous Enchanter." Not one of the most useful spells, but fun.
+PRISON <mobile>	1	50	5
+Sends the person on whom the spell is cast to the Wizards' Dungeon,
+whence it is extremely difficult to escape (and you lose points if you
+QUIT from it).
+SCORE | QS <mobile>	8	5
+Gives the specified mobile/player's score details. QS gives them in a
+shortened form. QS and SCORE, on their own, give the same information
+about you, but don't count as spells.
+SLEEP <mobile>* 	12	15	2
+Sends the named player or mobile to sleep (though it may rebound on
+you!) SLEEP on its own is the command to go to sleep voluntarily; this
+gains you some stamina but puts you in an unsafe position.
+TELL <mob> "message"	25	1
+Gives the specified player/mobile the message, telepathically. (`Ryke's
+voice says in your mind "hello there!"' is the sort of message you'd
+get.)
+WHERE <object>	18	2
+Tells you the location of an object, in the form of a short room name.
+This is one of the most useful spells available! It will tell you the name
+even if the location is `forbidden'.
+WHERE <location>	5	15
+Tells you the location of a location, in general terms (e.g. WHERE
+"CLEARING" tells you "in the central part of the Realm.") This can be
+useful, for example if you've just found that the staff is in `Wet passa-
+ge' (by typing WHERE STAFF) and haven't the faintest idea where `Wet
+passage' is! <location> may be either a location name in quotes or a lo-
+cation number. Some locations are completely detatched from the Realm.
+
+Wizards' Spells
+
+The following list shows the spells available to Wizards only - not priests.
+These spells are mostly concerned with manipulating objects and attacking
+other creatures.
+
+Spell		Percentage	Cost	Level
+CALL <object>	6	10+	2
+Allows you to call any inanimate object to your location, subject to the
+following restrictions:
+(1)	Mortals are not allowed access to certain locations.
+	(2)	Certain objects will resist the CALL spell.
+	(3)	You can't CALL an object that a mobile or player is carrying.
+	(4)	CALLing treasure is a lot more expensive in terms of magic stami-
+na.
+	(5)	Objects cannot be called from `forbidden' locations such as the Wi-
+zards' Room.
+Note also that CALLing a category, (e.g. CALL WEAPON, CALL T) will al-
+most certainly reduce the caster's magic stamina to zero and cause
+him/her to lose his/her spell-casting ability.
+CHANGE <mobile>	3	5	3
+Changes the mobile in question's sex, male to female or vice versa. If
+the spell is resisted it will work on the caster - you have been war-
+ned!
+EXPLODE <mobile>*	2	40	4
+Causes the specified mobile to explode, removing them from the game
+without losing them any points (even if used in a fight). Quite a drama-
+tic spell.
+ILLUSION <mobile> "message"	2	4
+Gives the specified player (or mobile!) the message as if it came di-
+rectly from the game. So ILLUS BEDIVERE "You are attacked by an ele-
+ven-foot king Cobra!" would give Bedivere the impression that he was
+writhing in the coils of the loathsome reptile. (To be able to create the
+real thing, you'll have to be Immortal...)
+INVISIBLE (<mobile>)	3	40	4
+Makes the specified player or mobile, or the caster if no name is given,
+invisible - obviously conferring some advantage in fights, stealing etc.
+This spell will wear off after some time unless cast on someone who's
+Immortal.
+LB <mobile>*	8	25
+Throws a bolt of lightning at a mobile. Similar to ZAP (see below) this
+is more powerful, more costly, and more difficult to cast.
+MOVE <object> <location>	5	20+	3
+Changes the location of the object in question to the specified place
+(locations are specified as in ZIP, below). The spell costs according to
+the value of the object (or, if a mobile, according to its level). The sa-
+me sort of restrictions apply to this spell as do to CALL, described
+earlier.
+NOWALL		4	28	3
+Removes all magic walls in your location (these are created by WOF or
+WOS which are described below).
+PUSH <mobile> <direction> 	7	20
+Forces the specified player/mobile to move in the given direction (but
+not in a direction they couldn't normally move). Eg PUSH TROLL NORTH.
+SHATTER <object>*	4	15+	2
+Destroys objects. Destroying weapons or treasures can cost you more
+points - don't try to shatter the diamond or Excalibur, for example!
+SUMMON <mobile>	7	20+	3
+This spell allows you to call any creature or player to your location.
+The cost of this spell is related to the level or power of the player or
+mobile you summon, and the spell may be resisted. You can't summon
+things from the `forbidden' locations.
+VORPAL <weapon>*	2	20	3
+For use on edged weapons only. It makes them more dangerous.
+WEIGH <object> <value>	1	30	7
+Changes an object's weight. <value> is a new weight, in Realm units.
+This is the only spell to directly manipulate an object's attributes avai-
+lable to Mortals. WEIGH <object> on its own, without a <value>, will
+show the object's current weight and is not a spell.
+WOF <direction>	2	60	4
+Creates a wall of fire in the given direction. Those who try to walk
+through it will lose stamina and may die.
+WOS <direction>	2	60	4
+Creates a wall of stone in the given direction. WOS N would block off
+the north exit to a room, for example. Walls of Stone are completely im-
+passable unless a NOWALL spell is used.
+ZAP or BLAST <mobile>*	10	15
+Throws a bolt of fire at a mobile/player, knocking points off his/her
+stamina according to caster's level. This can be effective if used in
+combat. (If you kill someone with ZAP outside a fight you score a few
+points, as is the situation with HIT, BURN, etc.)
+ZIP <location>	6	30	2
+Transports you about the Realm. <location> must be either
+	(1)	An object name, in which case the spell will take you to the object
+(e.g. ZIP SWORD),
+	(2)	A room name in double quotes (e.g. ZIP "clearing", ZIP "stilton
+gorge") where the spell will take you to this location (if it exists),
+or
+	(3)	A location number. This is of little use unless you have a very
+good map (or you are Immortal, in which case you will see the lo-
+cation numbers of rooms as you enter them).
+Note that Mortals cannot zip to the `forbidden' locations.
+
+Priests' Spells
+
+The following list shows the spells available to Priests but not wizards.
+These spells are to do with the powers of the mind and the occult for the
+most part, though there are some exceptions.
+
+Spell		Percentage	Cost	Level
+BLESS <mobile>	1	70	9
+Makes the person on whom the spell is cast immune to mobile attack. It
+also lifts the action of the CURSE spell. This spell doesn't make you in-
+vulnerable - players can still attack you and you still stand a chance
+of dying if you start a fight yourself.
+CONJURE		2	80	6
+Summons up a netherworld creature - a zombie, ghoul or fiend, depen-
+ding on your level - which you can command as if he had been SUB-
+DUEd (see below). May turn on you, if you are weak, to gain his free-
+dom, so this spell is not without danger for the low-level priest.
+CURSE <mobile>	1	30	3
+Makes victim extremely vulnerable to mobile attack (they attack on
+sight, in fact...) Both BLESS and CURSE, if cast by high-level priests or
+Immortals, may be permanent in effect.
+EXORCISE <mobile>*	4	40	4
+Return the mobile in question, if a demon or undead type, to the spirit
+world. If the spell fails, the mobile will resent it and the caster will
+probably fall asleep for some time.
+HEAL (<mobile>) <number>	6	0+
+Adds <number> points to someone's stamina while deducting twice that
+number from the caster's magic stamina. If used without a name (e.g.
+HEAL 20) this spell works on the caster.
+MBOLT <mobile>*	6	15
+Blasts the specified mobile with mental energy. Similar in its effects to
+ZAP, which is described above in the section on Wizards' spells.
+MOPEN		10	15	3
+An unusual spell for a priest in that it deals with the physical world.
+If there is a door in the location, it will usually cause it to open.
+PRAY "message"
+A special command - not a true spell - which enables priests to call on
+the Gods for assistance. Any God currently around will be under obli-
+gation to come to your aid. Those who misuse the command, though, will
+find the wrath of the Gods hard to survive! Anybody can use the PRAY
+command, but Gods will only hear it long-distance if a priest uses it.
+SAP <mobile>*	10	20	2
+Saps the strength of the named mobile, its effectiveness depending on
+the level of the user. It may cause the victim to drop heavy objects or
+to fall asleep for some time.
+SHIELD (<mobile>)*	4	50	3
+Creates a magical shield round the named mobile (or the caster) which
+protects him/her/it from lower level spells and - to some extent - 
+from injury by weapon. It wears off after some time.
+SUBDUE <mobile>	3	60	5
+Forces the named mobile to obedience to your will. It will then obey
+any commands spoken directly to it (eg ORC "GIVE ME SWORD" will or-
+der the orc to hand over the sword) though it may seek to escape your
+control. The spell will not work on mobiles that would not understand
+speech (e.g. the sparrow, the blob) and some intelligent ones will auto-
+matically resist it.
+VIEW <location>	4	10
+Allows you to see a location as if you were in it. <location> is either
+an object name (VIEW TROLL shows you the room the troll's in at the
+moment) or a location name in quotes (VIEW "Watchtower" shows you
+what the watchtower looks like) or a location number (see the Wizard
+spell ZIP). You cannot view `forbidden' locations.
+
+How to cope with Immortality
+
+Once your score reaches 204,800 points you are Immortal. Although this is
+the object of the game, playing Realm doesn't stop here - you can still get
+a lot of enjoyment out of playing as an Immortal.
+
+There are a number of differences between playing as a Mortal and as an
+Immortal. These are
+
+(1)	The most obvious : you will no longer die in fights. In fact, there are
+very few things that can actually wound you any more. Note however
+that you can still be killed by puzzles and traps, but this doesn't mat-
+ter as you'll be resurrected in the normal way anyway.
+
+(2)	You can no longer score points (or lose points) - this means that the-
+re's no chance of your advancing any further in levels without the
+Gods' taking a hand. The rank of Demigod or Demigoddess is only awar-
+ded to those who have made a really significant contribution to the ga-
+me (in terms of hours played, locations designed, moral uprightness or
+large cash sums to the author - hehe...).
+
+(3)	Those Immortals of magic user class - Wizards, Witches, Arch-Priests
+and Arch-Priestesses - will be able to cast any spell that they could
+have cast while Mortal, but will have 100% chance of getting it to work
+and will not lose any magic stamina by doing so. Spells cast by Mortals
+on Immortals will always fail (apart from `physical' spells like ZAP) :
+spells cast by Immortals on Mortals will always succeed. Spells cast by
+Immortals on other Immortals of the same rank will have exactly 50%
+chance of success: spells cast on lower ranking Immortals will always
+succeed, whereas spells cast on higher ranking Immortals will always
+fail. Gods and Demigods can cast spells of either class, and certain
+Ranger abilities are available to them.
+
+(4)	All Immortals, whether they be magic users or not, can cast the Immor-
+tal spells which allow them to make fairly substantial changes to the
+game - creating and destroying objects, renaming existing objects and
+changing their attributes and so on. When you're Immortal you'll be ab-
+le to use the HELP /I command, which will explain about these spells in
+more detail.
+
+(5)	Immortals will not be affected by certain puzzles and traps. Neither will
+mobiles attack them or steal from them (they've got more sense!)
+
+(6)	Immortals get certain messages about important events going on in the
+land which Mortals don't see. For example, they're told all the text
+which goes on the game log for the Coders to read after the game is
+shut down.
+
+When you become an Immortal your best plan is to contact a Demigod or
+God, who'll be able to tell you more about the powers and responsibilities of
+your position.
+
+Hints and Tips
+
+While we don't want to spoil the enjoyment you'll get from Realm, a few
+hints are probably useful to get you going.
+
+Drop treasure in the lake as soon as you get it; mobiles and other players
+will try to steal it from you. The quickest way to get to the lake is by
+going OUT until you get to the clearing, then walking round the mountain to
+the southeast and south until you find a place where it's climbable.
+
+While you're a low-level player, avoid mobiles like the plague. As you get
+towards 7th level you'll find they're easier to deal with (you'll then be
+superior in strength, if not in combat ability, to the majority of wandering
+monsters). Mobiles will give you a chance when you're a very low scorer:
+they will not generally attack anyone with zero score.
+
+While you'll find some treasures lying around in the main land, the really
+valuable stuff is to be found in the further reaches of the Realm. Don't try
+and explore these areas too early, though - there are a lot of traps and
+monsters knocking around in the depths of the caves under the Mountain or
+Hamlet's Caverns.
+
+Don't wander around in the dark without a light. Most mobiles can see in
+the dark quite well, but you can't. If you get totally lost in the dark a ma-
+gic user will probably be able to cast a GLOW spell on you if you ask ni-
+cely.
+
+Be careful when going to sea - bad weather can kill you off, and there are
+various hazards out there for the unwary.
+
+It's a good idea - especially for a beginner - to start as a Warrior and be-
+come a magic user later. That way you get the best of both worlds - you
+get fighting strength when you need it, when you're low level and vulne-
+rable to mobile attack, and then have the chance to become a magic user
+later on while retaining the strength you built up as a Warrior.
+
+Rangers should try to use their special bonuses in STEALing, THROWing, and
+abilities like ST 3 wherever possible. It can often make a difference!
+
+You'll probably get the most out of the game if you try and stay in charac-
+ter, r“le-playing as much as possible (especially when others are around) -
+this also helps to improve the game's `atmosphere'.
+
+Finally, if you have any comments, suggestions, or queries, get in touch
+with a Demigod or God (contact me as "Ryke"). We'll be happy to help you.
+
+Useful commands
+
+This is a summary of (most of) the commands available in Realm at the time
+of writing. For more detailed information about their syntax use HELP /U,
+HELP /E, HELP /S, HELP /W, HELP /P and HELP /I.
+
+Simplest commands
+
+BRIEF	BURN	CLOSE	CUT	DIG	DROP
+DRINK	EAT	EMPTY	EXAMINE	EXITS	EXTINGUISH
+FILL	FLEE	FOLLOW	GET	GIVE	HATE
+HIT	HELP	INVENTORY	JUMP	KEEP	KICK
+KILL	LEVELS	LEAGUE	LIKE	LIGHT	LOOK
+LOSE	LUNGE	OPEN	PARRY	PUT	PULL
+PUNCH	QL	QS	QUIT	QW	READ
+SAY	SCORE	SELECT	SHOUT	SHOOT	SING
+SLAP	SLASH	SLEEP	STEAL	STRIKE	TAKE
+TAKE OFF	THROW	VALUE	VERBOSE	WAVE	WEAR
+WEIGH	WHISPER	WHO	WISH	X
+
+`Emotes'
+
+BLINK	BLUSH	BOW	CACKLE	CHUCKLE	COWER
+CRY	FROWN	GIGGLE	GRIMACE	GRIN	GROAN
+GRUNT	GROWL	HICCUP	HUG	HOWL	KISS
+KNEEL	LAUGH	NOD	POUT	QUIVER	SCREAM
+SHAKE	SHIVER	SHRIEK	SMILE	SNEER	SNIFF
+SOB	WAVE	WEEP	WINK	YAWN
+
+Spells for all
+
+BLIND	CRIPPLE	DEAF	DISENCHANT	DISPOSSESS	DUMB
+GLOW	POSSESS	PREFIX	PRISON	QS	SCORE
+SLEEP	TELL	WHERE
+
+Wizards' Spells
+
+BLAST	CALL	CHANGE	EXPLODE	ILLUSION	INVISIBLE
+LB	MOVE	NOWALL	PUSH	SHATTER	SUMMON
+VORPAL	WEIGH	WOF	WOS	ZAP	ZIP
+
+Priests' Spells
+
+BLESS	CONJURE	CURSE	EXORCISE	HEAL	MBOLT
+MOPEN	PRAY	SAP	SHIELD	SUBDUE	VIEW
+
+Immortals' Spells
+
+ARENA	BAN	BLOT	BYE	BURNS	CHANGE
+CONTDESC	DESCRIBE	DISRUPT	EXTINGUISHABLE	FLAMMABLE
+LIQUID	LIT	MAKE	PEACE	REMOVE	RENAME
+SNOOP	SQUASH	STOPFIGHT	SUPERSNOOP	SUFFIX	TWOHAND
+VALUE	WAR	WEARABLE	WEATHER
+
+Realm Glossary
+
+Just a brief explanation of the meaning of some Realm jargon.
+
+Attributes :	These are the values which determine your physical and men-
+tal power in Realm. The four most important (the `prime attri-
+butes') are strength, dexterity, stamina, and magic stamina or
+concentration. See the section on attributes for more details.
+
+Charisma :	This attribute of personae is a measure of how popular they
+are. Everybody's allowed to vote, once a week, for someone
+they either like or dislike (using the LIKE and HATE com-
+mands). Charisma affects, among other things, how likely it is
+for a mobile to attack you. Charisma is an Attribute (see abo-
+ve).
+
+Coder :		Someone who's involved in the physical running of the game.
+Personae with Coder status are able to access features of
+Realm that others cannot reach.
+
+Death :		There are three types of Death in Realm. If you're killed by a
+puzzle or trap you're simply thrown off the game and back to
+the front end menu - you can log on again though you'll have
+lost anything you were carrying. If you're killed by someone
+else outside a fight you lose a handful of points but are
+otherwise unharmed. If you die during a fight you lose half
+your points - this normally means dropping down a level, and
+is the most catastrophic thing that can happen to you in
+Realm.
+
+Gods :		God(dess) and Demigod(dess) are high ranks, needing scores
+of 409,600 points and up. Nobody actually attains these ranks
+in the course of the game - they are given out by the ex-
+isting high-ranking personae when they deem that some per-
+sona has made an outstanding contribution to Realm. New Gods
+are very rare indeed: people of God rank are generally
+system administrators.
+
+Immortal :	A general term for anybody whose score is 204,800 or above.
+They are so called because they can't be killed in fights.
+
+Lake :		Where you drop treasure, on top of the mountain. To `lake' an
+object means to drop it in the lake. Hence the phrase "I'm off
+to lake some T."
+
+Log :		All the most important occurrences in the game are logged -
+they're recorded on disc for the Coders to read. This means
+that we can check up on people who are doing things they
+shouldn't.
+
+Magic user :	A term used to mean either a Wizard (see below) or anyone
+who can use magic (a Priest, a Wizard, or somebody who's
+found a magical object, of which there are one or two scatte-
+red about the Realm).
+
+Mobile :		A computer-controlled creature which roams about the land
+collecting treasure and fighting people weaker than itself. So-
+me mobiles are in fact stationary, but they all come under the
+same heading.
+
+Mortal :		A player who hasn't yet reached the rank of Immortal (and is
+consequently liable to be killed).
+
+Priest :		A magic-using character class with certain special restrictions
+on them (cannot use edged weapons, for example); quite good
+in combat but with less spells available to them than to Wi-
+zards.
+
+Ranger :		A character class which is good in combat, being strong and
+dexterous. Can not normally change to a magic using class,
+unlike warriors (see below). Has certain special abilities.
+
+Resets :		These currently occur every hour or so. It's basically when
+all the laked treasure and all the slain mobiles are returned
+to their original locations. Puzzles are reset, weapons are re-
+located, mazes are rebuilt and the Realm is generally tidied
+up. You are taken out of the game while this happens: it can
+take anything up to a minute, depending on what sort of a
+system Realm is running on! On some systems the game will
+shut down after an hour, rather than resetting.
+
+T :			Treasure. Collecting this is the main method of scoring points.
+The most valuable treasures are protected by mobiles or
+puzzles.
+
+Warrior :		The standard character class. No special abilities, but quite
+good in combat. Can become a magic user by performing one
+or more heroic deeds.
+
+Wizard :		A magic-using character class that is weak in combat but has
+many spells available.
