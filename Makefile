@@ -73,6 +73,6 @@ makedata: convert
 	./c_blo
 	./c_cat
 	./c_door
-	./c_log
+	./c_loc
 	./c_obj
 	./c_pers
